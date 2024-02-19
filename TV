@@ -1,6 +1,5 @@
 
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz"
-
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz,https://iptvx.one/EPG.gz,http://api.catcast.tv/api/timetable/epg.xml?channel_ids=38850,38821,38896,39484,38801,39161"
 
 
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
