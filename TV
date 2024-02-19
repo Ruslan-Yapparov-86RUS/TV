@@ -6322,6 +6322,8 @@ https://mhd116.iptv2022.com/p/CoTKlu5TJZ9--N0Wb6Hl_g,1708376415/streaming/prodvi
 https://mhd116.iptv2022.com/p/8BJv1b9nvNwJrDCBf-zpFA,1708376415/streaming/cgtn/324/1/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",CGTN РУССКИЙ HD
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 group-title="Lime (VPN)",CGTN РУССКИЙ
+https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Беларусь 24
 https://mhd116.iptv2022.com/p/ir4YZ5yzEVCq6tPV7Pmwhw,1708376415/streaming/belarus24/324/1/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",ПРО БИЗНЕС
