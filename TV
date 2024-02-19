@@ -3966,11 +3966,6 @@ http://5.153.190.251:8000/play/a04o
 http://5.153.190.251:8000/play/a04p
 #EXTINF:-1 group-title="LightNet (VPN)",Романтичное HD
 http://5.153.190.251:8000/play/a06d
-
-#EXTINF:-1 group-title="LightNet (VPN)",Романтичное HD
-https://stream-msk-09.ott.tricolor.tv:443/dtv/id496_MSKSG-PVR-1--Romantichnoe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTIxOTAwODQ5MDIwNCIsImV4cCI6MTcwODY3ODAxOSwiaHdpZCI6ImFlN2I4YmZiNzcwOTcxNDk0ZmU5MTg0MjM1MWVkM2NmY2QzMzY5NmU5Y2IzODhlNGI3OTQxNmE1NmI2NjY2ZmYiLCJsYXN0X3JlcV9kYXRlIjoxNzA4MDczMjE5LCJzZXNzaW9uX2lkIjoiMjRlY2NiNzQyYzkyNDNlZDhlYjhmOTYxY2QwNzJmYTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.FOZugfqa655MM6PFf_gJt9x2J5qNJcASI-_vwJFACC4
-#EXTINF:-1 group-title="LightNet (VPN)",Романтичное HD
-https://stream-msk-10.ott.tricolor.tv:443/dtv/id496_MSKSG-PVR-1--Romantichnoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTIxOTAwODQ5MDIwNCIsImV4cCI6MTcwODk2NjcwMCwiaHdpZCI6ImFlN2I4YmZiNzcwOTcxNDk0ZmU5MTg0MjM1MWVkM2NmY2QzMzY5NmU5Y2IzODhlNGI3OTQxNmE1NmI2NjY2ZmYiLCJsYXN0X3JlcV9kYXRlIjoxNzA4MzYxOTAwLCJzZXNzaW9uX2lkIjoiYTUxNzRiMTQ5MmZhYjRiYmU3NDI1MTk2NjcxMWM0MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YhyjzdO6QzDpPDgNWkCHznIetHPSfQypBLKV_QMVJf4
 #EXTINF:-1 group-title="LightNet (VPN)",Русский бестселлер
 http://5.153.190.251:8000/play/a04w
 #EXTINF:-1 group-title="LightNet (VPN)",Русский детектив
