@@ -4,7 +4,7 @@
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Первонеобходимые ⓵" ,ДОРАМА HD
 http://api.peers.tv/timeshift/dorama/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDg0MTU5NDcsImlhdCI6MTcwODMyOTU0NywiY2lkIjo2LCJ1aWQiOjc0MTc0OTMxMiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.8eC16kAMjfEn6suaMXHm3w61HWExebPDwEaZmZjo3Xk&offset=10
-#EXTINF:-1 group-title="Первонеобходимые ⓵" ,ДОРАМА HD hdhd
+#EXTINF:-1 group-title="Первонеобходимые ⓵" ,ДОРАМА HD
 http://94.232.104.237:8000/play/075/index.m3u8
 #EXTINF:-1 group-title="Первонеобходимые ⓵" ,ДОРАМА HD
 http://arbiter.bolshoe.tv/?path=abr4/dorama/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI0IDg6MDA6MTMgUE0maGFzaF92YWx1ZT02TjdhTWJFYkFSMmdCd24wWi91OVFRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
