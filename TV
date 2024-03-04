@@ -2332,6 +2332,8 @@ http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="С сайтов",CGTN Русский HD
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://pobeda.tv/images/logo_header.png",Победа
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
