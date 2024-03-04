@@ -1,11 +1,11 @@
 
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz"
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновлено:04.03.2024
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновлено:05.03.2024
 https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif
 
 
-#EXTINF:-1, ЛАВСТОРИ HD
-https://stream-msk-16.ott.tricolor.tv/dtv/id931_MSKSG-PVR-1--Lovestory/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTIxOTAwODQ5MDIwNCIsImV4cCI6MTcxMDE3MTkwNCwiaHdpZCI6IjdjOTUzZjI1N2EzYzFhN2EwMmE5MjIwOGZiMTU3MGUyOGQzYTkyNGQyZjBhYTIyNWZjODI4NGZkZDY1MWY0ZTYiLCJsYXN0X3JlcV9kYXRlIjoxNzA5NTY3MTA0LCJzZXNzaW9uX2lkIjoiMDRjOWRlODA1NTg4N2RkYzBiNjA0NmI0OTA2MWEwZTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.UxxIXv8_l-f-eFWlEkpTQRIdY5QJXOupkkhGrhVStBs
+
+
 
 
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
@@ -2339,13 +2339,11 @@ http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов",CGTN Русский HD
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="С сайтов",Кинеко HD
-http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/9135/index.m3u8
+http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/9135/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="С сайтов",Дорама HD
-http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/2131/index.m3u8
-#EXTINF:0 tvg-rec="3"group-title="С сайтов",Дорама HD orig
-http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/9224/index.m3u8
+http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/2131/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="С сайтов",Романтичное HD
-http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/5053/index.m3u8
+http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/5053/index.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://pobeda.tv/images/logo_header.png",Победа
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
