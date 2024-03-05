@@ -5413,7 +5413,7 @@ http://arbiter.bolshoe.tv/?path=abr4/belarus_24/71/copy/playlist.m3u8&wmsAuthSig
 #EXTINF:-1 group-title="Большое ТВ (VPN)",БелРос
 http://arbiter.bolshoe.tv/?path=streaming/tro/71/tvrec/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjQgODowNDo0MiBBTSZoYXNoX3ZhbHVlPUtqZjJ1Sml4MDU5ajVIcFk4cXYzTGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 
-#EXTINF:-1 group-title="Большое ТВ (VPN)",Дорама
+#EXTINF:-1 group-title="Большое ТВ (VPN)",Дорама HD
 http://arbiter.bolshoe.tv/?path=abr4/dorama/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjQgODowNDo0MiBBTSZoYXNoX3ZhbHVlPUtqZjJ1Sml4MDU5ajVIcFk4cXYzTGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 
 #EXTINF:-1 group-title="Большое ТВ (VPN)",Кухня ТВ
