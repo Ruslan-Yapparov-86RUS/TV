@@ -2523,6 +2523,8 @@ http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="С сайтов",Че
+https://chelive-vitrina.cdnvideo.ru/dash-livef1/ctc-che/index.mpd?token=v2.1J2pqUBbSlBYu136zOXw3Y0twhoVDeSrnEXXPpGuEAo.K-BHkDGLJOnwWqlJqmTR_f1oY8Q930z380r14nYTeX0.1710396723.c194f7f11d16e3a2f638102af2ebb4d4
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://pobeda.tv/images/logo_header.png",Победа
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
