@@ -2831,8 +2831,16 @@ http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="С сайтов" ,CGTN Русский HD
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов" ,CGTN русский
 https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="С сайтов" tvg-shift="0" tvg-id="hlsproxy-53747",Дорама HD
+http://87.99.87.203:2007/channel/7fb5606e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 group-title="С сайтов" tvg-shift="0" tvg-id="hlsproxy-1007012",Кинеко HD
+http://87.99.87.203:2007/channel/nc375b3e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 group-title="С сайтов" tvg-shift="0" tvg-id="hlsproxy-1007012",Кинеко HD
+http://158.101.214.187:8080/channel/5891ba18/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://pobeda.tv/images/logo_header.png",Победа
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
@@ -2895,16 +2903,6 @@ https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 
 
 
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-shift="0" tvg-id="hlsproxy-53747",Дорама HD
-http://87.99.87.203:2007/channel/7fb5606e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-shift="0" tvg-id="hlsproxy-1007012",Кинеко HD
-http://87.99.87.203:2007/channel/nc375b3e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-shift="0" tvg-id="hlsproxy-1007012",Кинеко HD
-http://158.101.214.187:8080/channel/5891ba18/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="С сайтов (VPN)" ,CGTN Русский HD
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,CGTN Русский
-https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Первый канал Евразия
 https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
