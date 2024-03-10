@@ -12,6 +12,8 @@ https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif
 
 #EXTINF:-1 tvg-shift="0",Лавстори HD
 http://46.8.21.67:2021/channel/21359ffa/index.m3u8?q=fc7808321df6e2c3965c419194050eac
+#EXTINF:-1 tvg-shift="0" tvg-id="hlsproxy-100014" tvg-logo="http://158.101.214.187:8080/logos/romantichnoe-hd.png",Романтичное HD
+http://46.8.21.67:2021/channel/n5fd2cd7/index.m3u8?q=fc7808321df6e2c3965c419194050eac
 
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
 http://80.85.241.205:8070/chdtv_ru_rock/index.m3u8
@@ -7960,8 +7962,6 @@ http://127.0.0.1:6878/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36&
 http://127.0.0.1:6878/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Русская комедия
 http://127.0.0.1:6878/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&.mp4
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Романтичное HD
-http://127.0.0.1:6878/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Пятница HD
 http://127.0.0.1:6878/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Про Любовь HD
