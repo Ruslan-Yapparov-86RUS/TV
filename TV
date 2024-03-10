@@ -16,7 +16,7 @@ http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c
 #EXTINF:-1, Romance
 http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1, Romance HD
-https://stream202.24h.tv/mbrjwt/abf5413f62d9bb4b1164a736f54fa2ffd4692c11-8257-0-str25145038-5-3119732613-1710069317-e128-MyI-j-rGAiN5CaDt7nXxJE_HJPlBreBy8ZOknOLAMV8/index.m3u8
+https://stream201.24h.tv:443/mbrjwt/abf5413f62d9bb4b1164a736f54fa2ffd4692c11-8257-0-str25145038-5-3119732613-1710091724-e128-eJekc2bw3YfkFSGX7JwzWALsWeiNd_h8leFfZCpuohw/1.m3u8
 #EXTINF:-1 tvg-shift="0", Лавстори HD
 http://87.99.87.203:2007/channel/21359ffa/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 tvg-shift="0" tvg-id="hlsproxy-100014" tvg-logo="http://158.101.214.187:8080/logos/romantichnoe-hd.png", Романтичное HD
