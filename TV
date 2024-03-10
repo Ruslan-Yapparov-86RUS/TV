@@ -10,7 +10,7 @@ https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif
 
 #EXTINF:-1, tvg-shift="0", Лавстори HD
 http://87.99.87.203:2007/channel/21359ffa/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1, tvg-shift="0", Романтичное HD
+#EXTINF:-1 group-title="Триколор" tvg-shift="0" tvg-id="hlsproxy-100014" tvg-logo="http://158.101.214.187:8080/logos/romantichnoe-hd.png",Романтичное HD
 http://87.99.87.203:2007/channel/n5fd2cd7/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1, Дорама HD
 http://87.99.87.203:2007/channel/7fb5606e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
