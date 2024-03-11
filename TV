@@ -35,6 +35,8 @@ http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/2131/index.m3u8
 #EXTINF:0 tvg-rec="3" group-title="winter-7",Кинеко HD
 http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/9135/index.m3u8
 
+#EXTINF:0 group-title="Тайны виноградной лозы", 1 серия
+https://stream-msk-17.ott.tricolor.tv/vod/H1HED_HD_TAY_VINOGRADNO_LOZ_P01_05JGV_V/P9.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzOTIxOTAwODQ5MDIwNCIsImV4cCI6MTcxMDc3MjU3MSwiaHdpZCI6IjdjOTUzZjI1N2EzYzFhN2EwMmE5MjIwOGZiMTU3MGUyOGQzYTkyNGQyZjBhYTIyNWZjODI4NGZkZDY1MWY0ZTYiLCJsYXN0X3JlcV9kYXRlIjoxNzEwMTY3NzcxLCJzZXNzaW9uX2lkIjoiMTQ0ZWE0ODBhZTAwNjg5NTkyYjA2YTY0NzIwMzJhZTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.kTyyOQ_zB9Utfbwh8Rg926JOv9I1zlERs8l7VAU9sr0
 
 
 
