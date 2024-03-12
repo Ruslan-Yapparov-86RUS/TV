@@ -22,16 +22,8 @@ http://87.99.87.203:2007/channel/nc375b3e/index.m3u8?q=52c8abe37164a6d25a67fe501
 #EXTINF:-1, Кинеко HD
 http://158.101.214.187:8080/channel/5891ba18/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 
-#EXTINF:-1 tvg-rec="3" group-title="tele-port-9", Дорама HD
-http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/2131/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="tele-port-9", Кинеко HD
-http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/9135/index.m3u8
 
 
-#EXTINF:0 tvg-rec="3" group-title="winter-7",Дорама HD
-http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/2131/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="winter-7",Кинеко HD
-http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/9135/index.m3u8
 
 
 
@@ -61,6 +53,16 @@ http://158.101.194.132:8888/channel/4e40a43a/index.m3u8?q=a0a05bb7b60c1edd8f1556
 http://158.101.194.132:8888/channel/78f3030f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
 #EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-434" tvg-logo="http://158.101.214.187:8080/logos/tvc.png",ТВЦ HD
 http://158.101.194.132:8888/channel/n41a5ce3d/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/f5a463d2518b98ea5b2a_640x360.png" tvg-shift="0" tvg-id="hlsproxy-8076",1 Карагандинский
 http://87.99.87.203:2007/channel/3f3a7408/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="null" tvg-shift="0" tvg-id="hlsproxy-7",1HD Music Television
@@ -520,6 +522,34 @@ http://87.99.87.203:2007/channel/329a0a51/index.m3u8?q=52c8abe37164a6d25a67fe501
 http://87.99.87.203:2007/channel/n1ad023db/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/2d9b776219186174a259_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-100042",инфоканал
 http://87.99.87.203:2007/channel/n231babad/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-rec="3" group-title="С архивами", Дорама HD
+http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/2131/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="С архивами", Кинеко HD
+http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/9135/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="С архивами",Дорама HD
+http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/2131/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="С архивами",Кинеко HD
+http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/9135/index.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://87.99.87.203/logo/hlab.png" group-title="History LAB" tvg-shift="0","Мы там умирали". Воспоминания узницы нацистского концлагеря "Озаричи". Интервью
 https://rr9---sn-axq7sn7l.googlevideo.com/videoplayback?expire=1710075895&ei=l1vtZf7MA6KTv_IP9c-xoAY&ip=87.99.87.203&id=o-AHo7jv8BX0tTbWpfC_rRNpTCMurzxNSao_VVndu_ybHH&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=rO&mm=31%2C29&mn=sn-axq7sn7l%2Csn-5go7ynl6&ms=au%2Crdu&mv=m&mvi=9&pl=22&initcwndbps=2532500&spc=UWF9f3CLugUdltTGwYaCXiR-UtBtrm6yS7AaXL7ES9moeTU&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=1897.418&lmt=1708952463534784&mt=1710053594&fvip=2&fexp=24007246&c=ANDROID&txp=4432434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRAIgIJHUxoMeIvDE0iOhmsViKHi2jphajU8Z-T0gOwCyOUQCIFfuQsR8Y_JgNvb2thwwsWtS4CI1BlMG62M-jsRE9ko4&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=APTiJQcwRgIhAKG3n089PCQsmblbXVHtH7NTRQhlWw_3CdrSCa1Y1FzjAiEAzJRomewEMTV6YUB1SQbTQ6ON7D2sBxAQbCp6hBgLRXg%3D
 #EXTINF:-1 tvg-logo="http://87.99.87.203/logo/hlab.png" group-title="History LAB" tvg-shift="0",30 лет распада СССР. История в лицах. Александр Лукашенко
