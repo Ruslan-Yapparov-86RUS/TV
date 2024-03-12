@@ -394,7 +394,7 @@ http://87.99.87.203:2007/channel/n78186e40/index.m3u8?q=52c8abe37164a6d25a67fe50
 http://87.99.87.203:2007/channel/n1425d72e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/4a2de6b9620ae647accb_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-314",Мульт
 http://87.99.87.203:2007/channel/5f39950a/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/eca003414b1fc7d92daf_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-344",НСТВ
+#EXTINF:-1 group-title="BeeTV" tvg-shift="0" tvg-id="hlsproxy-344",НСТ
 http://87.99.87.203:2007/channel/6e6d27b4/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/a24bdc789732d2c92e88_640x360.png" tvg-shift="0" tvg-id="hlsproxy-321",НТВ МИР
 http://87.99.87.203:2007/channel/6f977db1/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
@@ -2232,7 +2232,7 @@ http://158.101.214.187:8080/channel/n318730af/index.m3u8?q=6cca621bb017c120be8f5
 http://158.101.214.187:8080/channel/3f9b3fbc/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Voka" tvg-logo="https://resizer.voka.tv/rosing-voka-production/7ecc05c7ac6531837d50_300x200c.jpg" tvg-shift="0" tvg-id="hlsproxy-315",Мультиландия
 http://158.101.214.187:8080/channel/134c29b/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="Voka" tvg-logo="https://resizer.voka.tv/rosing-voka-production/829931c10f7a57617367_300x200c.jpg" tvg-shift="0" tvg-id="hlsproxy-344",НСТ
+#EXTINF:-1 group-title="Voka" tvg-shift="0" tvg-id="hlsproxy-344",НСТ
 http://158.101.214.187:8080/channel/20b02df4/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Voka" tvg-logo="https://resizer.voka.tv/rosing-voka-production/ee27ad95d0a04acb5f86_300x200c.jpg" tvg-shift="0" tvg-id="hlsproxy-8349",НТВ Право
 http://158.101.214.187:8080/channel/4cb5227e/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
@@ -3699,7 +3699,7 @@ http://87.99.87.203:2007/channel/n342fa8d3/index.m3u8?q=52c8abe37164a6d25a67fe50
 http://87.99.87.203:2007/channel/n4704b04/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="Триколор" tvg-shift="0" tvg-id="hlsproxy-316" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nvk_sakha_ru.png",НВК Саха
 http://87.99.87.203:2007/channel/n56ff3f70/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1 group-title="Триколор" tvg-shift="0" tvg-id="hlsproxy-344" tvg-logo="http://158.101.214.187:8080/logos/nastoyaschee-strashnoe.png",НСТ
+#EXTINF:-1 group-title="Триколор" tvg-shift="0" tvg-id="hlsproxy-344",НСТ
 http://87.99.87.203:2007/channel/n26d9e35d/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="Триколор" tvg-shift="0" tvg-id="hlsproxy-127" tvg-logo="http://158.101.214.187:8080/logos/nano-hd.png",Нано HD
 http://87.99.87.203:2007/channel/n794b94d3/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
