@@ -3164,7 +3164,7 @@ http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-362" tvg-logo="http://158.101.214.187:8080/logos/perviy.png",Первый Канал
 http://158.101.214.187:8080/channel/n6c2019b/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-362" tvg-logo="http://158.101.214.187:8080/logos/perviy-hd.png",Первый Канал HD
-http://158.101.214.187:8080/channel/n62d01c13/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+http://158.101.214.187:8080/channel/n10be97a7/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 tvg-id="hlsproxy-8617" group-title="Россия" tvg-logo="http://moobl.ru/hls/img/rtr-planeta.png" tvg-shift="0",РТР-Планета Америка
 http://158.101.214.187:8080/channel/n6a8b0ad3/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-382" tvg-logo="http://158.101.214.187:8080/logos/rentv.png",Рен ТВ
@@ -3174,7 +3174,7 @@ https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-391" tvg-logo="http://158.101.214.187:8080/logos/rossia1.png",Россия 1
 http://158.101.214.187:8080/channel/7f103703/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-391" tvg-logo="http://158.101.214.187:8080/logos/rossia1-hd.png",Россия 1 HD
-http://158.101.214.187:8080/channel/n65e86671/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+http://158.101.214.187:8080/channel/n35ebcc05/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-395" tvg-logo="http://158.101.214.187:8080/logos/rossiak.png",Россия К
 http://158.101.214.187:8080/channel/n3a9a1fd8/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-407" tvg-logo="http://158.101.214.187:8080/logos/sts.png",СТС
@@ -3188,7 +3188,7 @@ http://158.101.214.187:8080/channel/21e3d71b/index.m3u8?q=6cca621bb017c120be8f52
 #EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-434" tvg-logo="http://158.101.214.187:8080/logos/tvc.png",ТВЦ HD
 http://158.101.214.187:8080/channel/n51acb1b7/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-439" tvg-logo="http://158.101.214.187:8080/logos/tnt-hd-ru.png",ТНТ HD
-http://158.101.214.187:8080/channel/57b1a2c1/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+http://158.101.214.187:8080/channel/4fdd3757/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-51372" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/abu-dhabi-sports-1-ae.png",ABU DHABI SPORT 1
 http://158.101.214.187:8080/channel/n43f2701f/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Спорт" tvg-shift="0" tvg-id="hlsproxy-51373" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/abu-dhabi-sports-2-ae.png",ABU DHABI SPORT 2
