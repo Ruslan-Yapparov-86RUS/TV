@@ -11,13 +11,11 @@ https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif
 
 
 
-#EXTINF:-1, viju TV1000 новелла
-http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1, Romance
 http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 tvg-shift="0", Лавстори HD
 http://87.99.87.203:2007/channel/21359ffa/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1 tvg-shift="0" tvg-id="hlsproxy-100014" tvg-logo="http://158.101.214.187:8080/logos/romantichnoe-hd.png", Романтичное HD
+#EXTINF:-1 tvg-shift="0" tvg-id="hlsproxy-100014", Романтичное HD
 http://87.99.87.203:2007/channel/n5fd2cd7/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1, Кинеко HD
 http://87.99.87.203:2007/channel/nc375b3e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
@@ -34,6 +32,8 @@ http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/9135/index.m3u8
 http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/2131/index.m3u8
 #EXTINF:0 tvg-rec="3" group-title="winter-7",Кинеко HD
 http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/9135/index.m3u8
+
+
 
 
 
@@ -99,7 +99,7 @@ http://87.99.87.203:2007/channel/b970435/index.m3u8?q=52c8abe37164a6d25a67fe501b
 http://87.99.87.203:2007/channel/n6906e4ad/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/b40f44430f0a29c43920_640x360.png" tvg-shift="0" tvg-id="hlsproxy-100684",Big Planet HD
 http://87.99.87.203:2007/channel/n58643bc/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/bd3018283b5c4fa6828d_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-163",Black
+#EXTINF:-1 group-title="BeeTV" tvg-shift="0" tvg-id="hlsproxy-163",.Black
 http://87.99.87.203:2007/channel/272542ff/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/2f1f7775a45fb4ffde81_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-51106",Bollywood Elemental
 http://87.99.87.203:2007/channel/n3407e820/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
@@ -229,11 +229,11 @@ http://87.99.87.203:2007/channel/5af34716/index.m3u8?q=52c8abe37164a6d25a67fe501
 http://87.99.87.203:2007/channel/3782005/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ac8edb232c20588b3229_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-151",RTVi HD
 http://87.99.87.203:2007/channel/17b68b87/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/641f8114b9b438930c0c_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-159",Red
+#EXTINF:-1 group-title="BeeTV" tvg-shift="0" tvg-id="hlsproxy-159",.Red
 http://87.99.87.203:2007/channel/7f602b91/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/ea9f0f339544d356a8ac_640x360.png" tvg-shift="0" tvg-id="hlsproxy-53974",Saryarqa
 http://87.99.87.203:2007/channel/27746d96/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1848f6358e409863873f_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-28",Sci-Fi
+#EXTINF:-1 group-title="BeeTV" tvg-shift="0" tvg-id="hlsproxy-28",.Sci-Fi
 http://87.99.87.203:2007/channel/n25f67fe9/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/6bc4c1b270cc2b876809_640x360.png" tvg-shift="0" tvg-id="hlsproxy-53973",Semei
 http://87.99.87.203:2007/channel/2811d13f/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
@@ -1216,17 +1216,17 @@ https://rr4---sn-axq7sn7e.googlevideo.com/videoplayback?expire=1710075819&ei=S1v
 http://158.101.214.187:8080/channel/6e39c290/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10300/logo_256_1658733419.png" tvg-shift="0" tvg-id="hlsproxy-2250",#КтоКуда
 http://158.101.214.187:8080/channel/7f631658/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14498/logo_256_1660800255.png" tvg-shift="0" tvg-id="hlsproxy-163",.Black
+#EXTINF:-1 group-title="Lime" tvg-shift="0" tvg-id="hlsproxy-163",.Black
 http://158.101.214.187:8080/channel/360a71d1/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14484/logo_256_1660800271.png" tvg-shift="0" tvg-id="hlsproxy-159",.Red
+#EXTINF:-1 group-title="Lime" tvg-shift="0" tvg-id="hlsproxy-159",.Red
 http://158.101.214.187:8080/channel/5d06e6e3/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14491/logo_256_1660800286.png" tvg-shift="0" tvg-id="hlsproxy-28",.Sci-Fi
+#EXTINF:-1 group-title="Lime" tvg-shift="0" tvg-id="hlsproxy-28",.Sci-Fi
 http://158.101.214.187:8080/channel/n5835d47b/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10155/logo_256_1660800324.png" tvg-shift="0" tvg-id="hlsproxy-6",12 канал (Омск)
 http://158.101.214.187:8080/channel/26718577/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12664/logo_256_1655386814.png" tvg-shift="0",27 канал Прокопьевск
 http://158.101.214.187:8080/channel/8af51bb/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/1/logo_256_1655386719.png" tvg-shift="0" tvg-id="hlsproxy-276",2x2
+#EXTINF:-1 group-title="Lime" tvg-shift="0" tvg-id="hlsproxy-276",2x2
 http://158.101.214.187:8080/channel/4d52e10c/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10043/logo_256_1655386875.png" tvg-shift="0" tvg-id="hlsproxy-134",360
 http://158.101.214.187:8080/channel/4d52dccd/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
@@ -2050,15 +2050,15 @@ http://158.101.214.187:8080/channel/6419b810/index.m3u8?q=6cca621bb017c120be8f52
 http://158.101.214.187:8080/channel/n7fbca0b/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Voka" tvg-logo="https://resizer.voka.tv/rosing-voka-production/cb378eb501eb26e640b7_300x200c.jpg" tvg-shift="0" tvg-id="hlsproxy-8057",+TV
 http://158.101.214.187:8080/channel/20a0e4e3/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="Voka" tvg-logo="https://resizer.voka.tv/rosing-voka-production/8e78bca8c2110d7e3859_300x200c.jpg" tvg-shift="0" tvg-id="hlsproxy-163",.black
+#EXTINF:-1 group-title="Voka" tvg-shift="0" tvg-id="hlsproxy-163",.Black
 http://158.101.214.187:8080/channel/95b17db/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="Voka" tvg-logo="https://resizer.voka.tv/rosing-voka-production/911cbfa2b3385f2c7227_300x200c.jpg" tvg-shift="0" tvg-id="hlsproxy-159",.red HD
+#EXTINF:-1 group-title="Voka" tvg-shift="0" tvg-id="hlsproxy-159",.Red HD
 http://158.101.214.187:8080/channel/3cf3268f/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="Voka" tvg-logo="https://resizer.voka.tv/rosing-voka-production/b6851562184bdfbe1397_300x200c.jpg" tvg-shift="0" tvg-id="hlsproxy-28",.sci-fi
+#EXTINF:-1 group-title="Voka" tvg-shift="0" tvg-id="hlsproxy-28",.Sci-fi
 http://158.101.214.187:8080/channel/3e8e4a9b/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Voka" tvg-logo="https://resizer.voka.tv/rosing-voka-production/a0eb74d7780174d1e4b1_300x200c.jpg" tvg-shift="0" tvg-id="hlsproxy-7",1 HD Music Television
 http://158.101.214.187:8080/channel/n6bc45728/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="Voka" tvg-logo="https://resizer.voka.tv/rosing-voka-production/b364799c4549dae97e8b_300x200c.jpg" tvg-shift="0" tvg-id="hlsproxy-276",2x2
+#EXTINF:-1 group-title="Voka" tvg-shift="0" tvg-id="hlsproxy-276",2x2
 http://158.101.214.187:8080/channel/20a10362/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Voka" tvg-logo="https://resizer.voka.tv/rosing-voka-production/f22aade61795970568bb_300x200c.jpg" tvg-shift="0" tvg-id="hlsproxy-13",365 дней ТВ
 http://158.101.214.187:8080/channel/n5d96a2b5/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
@@ -3002,7 +3002,7 @@ http://158.101.194.132:8888/channel/82c78d3/index.m3u8?q=a0a05bb7b60c1edd8f15566
 http://158.101.194.132:8888/channel/n5db2fe22/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
 #EXTINF:-1 tvg-id="hlsproxy-50333" channel-id="20" channel-number="20" group-title="Каналы TV2222" tvg-chno="20" tvg-shift="0" tvg-logo="http://158.101.214.187:8080/logos/20-israel.png",20 - Детективы
 http://158.101.194.132:8888/channel/n5843815/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 catchup="flussonic" catchup-days="1" tvg-name=".black" group-title="Каналы с архивом" tvg-shift="0" tvg-id="hlsproxy-163" tvg-logo="http://158.101.214.187:8080/logos/dot-black.png",.black
+#EXTINF:0 catchup="flussonic" catchup-days="1" tvg-name=".Black" group-title="Каналы с архивом" tvg-shift="0" tvg-id="hlsproxy-163",.Black
 http://158.101.214.187:8080/channel/n36358112/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:0 tvg-id="super-pl7" catchup="flussonic" catchup-days="1" tvg-name="Cуббота! +7" group-title="Каналы с архивом" tvg-logo="https://streaming-elbrus.su/img/logos/efir/subbota-pl7.png" tvg-shift="-7",Cуббота! +7
 http://158.101.214.187:8080/channel/n5e9076cc/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
@@ -4135,7 +4135,7 @@ http://158.101.214.187:8080/channel/n166312c8/index.m3u8?q=6cca621bb017c120be8f5
 http://158.101.214.187:8080/channel/1c097b44/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/sd90_image600_gray_outline.png" group-title="Радио Рекорд" tvg-shift="0",Супердискотека 90-х
 http://158.101.214.187:8080/channel/755040bf/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="Развлекательные" tvg-shift="0" tvg-id="hlsproxy-276" tvg-logo="http://158.101.214.187:8080/logos/2x2.png",2x2
+#EXTINF:-1 group-title="Развлекательные" tvg-shift="0" tvg-id="hlsproxy-276",2x2
 http://158.101.214.187:8080/channel/n1a3d7460/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Развлекательные" tvg-shift="0",VB ОСП-Студия
 http://158.101.214.187:8080/channel/6ff19ca0/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
@@ -5162,7 +5162,7 @@ http://158.101.214.187:8080/channel/23b5ca9f/index.m3u8?q=6cca621bb017c120be8f52
 http://158.101.214.187:8080/channel/23b5caa0/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Украина" tvg-shift="0" tvg-id="hlsproxy-255" tvg-logo="http://158.101.214.187:8080/logos/espreso-ua-hd.png",ЭСПРЕСО ТВ HD
 http://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
-#EXTINF:0 tvg-name="" group-title="Фильмы" tvg-shift="0" tvg-id="hlsproxy-28" tvg-logo="http://158.101.214.187:8080/logos/dot-sci-fi.png",.Sci-fi
+#EXTINF:0 tvg-name="" group-title="Фильмы" tvg-shift="0" tvg-id="hlsproxy-28",.Sci-fi
 http://158.101.214.187:8080/channel/n677423af/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Фильмы" tvg-shift="0",4К Русское кино
 http://158.101.214.187:8080/channel/n3dc998bf/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
