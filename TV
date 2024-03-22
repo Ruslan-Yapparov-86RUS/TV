@@ -15,6 +15,8 @@ https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif
 http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 tvg-shift="0", Лавстори HD
 http://87.99.87.203:2007/channel/21359ffa/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+#EXTINF:-1 tvg-shift="0" tvg-id="hlsproxy-1007010", Сапфир HD
+http://87.99.87.203:2007/channel/45e82860/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 tvg-shift="0" tvg-id="hlsproxy-100014", Романтичное HD
 http://87.99.87.203:2007/channel/n5fd2cd7/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1, Кинеко HD
@@ -456,8 +458,6 @@ http://87.99.87.203:2007/channel/6e6eef8f/index.m3u8?q=52c8abe37164a6d25a67fe501
 http://87.99.87.203:2007/channel/1c66118e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/2d992aa3f2994632e1ab_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-54501",СТС Kids
 http://87.99.87.203:2007/channel/3aab376d/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/dfc8d9e511e3ee1f0d66_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-1007010",Сапфир HD
-http://87.99.87.203:2007/channel/45e82860/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/83db4cd15402564d097d_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-564",Седьмой канал
 http://87.99.87.203:2007/channel/n17f3c583/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/bf1b589921a5f57e8fc4_640x360.jpg" tvg-shift="0",Семейное кино HD
