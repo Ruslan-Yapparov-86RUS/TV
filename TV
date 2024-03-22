@@ -332,7 +332,7 @@ http://87.99.87.203:2007/channel/n35bb2b48/index.m3u8?q=52c8abe37164a6d25a67fe50
 http://87.99.87.203:2007/channel/375fba43/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/9fb455f8bad90e8f2568_640x360.png" tvg-shift="0" tvg-id="hlsproxy-416",Домашний International
 http://87.99.87.203:2007/channel/n2949e07e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/a533bfdd1b3959419d76_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-53747",Дорама HD
+#EXTINF:-1 group-title="BeeTV" tvg-shift="0" tvg-id="hlsproxy-53747",Дорама HD
 http://87.99.87.203:2007/channel/7fb5606e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/bd6169bc12b7124d4eaa_640x360.png" tvg-shift="0" tvg-id="hlsproxy-253",Еврокино
 http://87.99.87.203:2007/channel/1b445a3a/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
@@ -362,7 +362,7 @@ http://87.99.87.203:2007/channel/n7d60d116/index.m3u8?q=52c8abe37164a6d25a67fe50
 http://87.99.87.203:2007/channel/75279b2e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/83ff181b98f356dec588_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-51020",Карусель International
 http://87.99.87.203:2007/channel/n65a5f574/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/0901dd70abb46f463348_640x360.jpg" tvg-shift="0" tvg-id="hlsproxy-1007012",Кинеко HD
+#EXTINF:-1 group-title="BeeTV" tvg-shift="0" tvg-id="hlsproxy-1007012",Кинеко HD
 http://87.99.87.203:2007/channel/nc375b3e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/81c558e305f03c85c219_640x360.jpg" tvg-shift="0",Кинобоевик HD
 http://87.99.87.203:2007/channel/18fa8a11/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
