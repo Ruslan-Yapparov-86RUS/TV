@@ -13,11 +13,11 @@ https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif
 
 #EXTINF:-1, Romance
 http://146.158.0.56:80/Motosport/index.m3u8
-#EXTINF:-1 tvg-shift="0", Лавстори HD
+#EXTINF:-1, Лавстори HD
 http://87.99.87.203:2007/channel/21359ffa/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1 tvg-shift="0" tvg-id="hlsproxy-1007010", Сапфир HD
+#EXTINF:-1, Сапфир HD
 http://87.99.87.203:2007/channel/45e82860/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
-#EXTINF:-1 tvg-shift="0" tvg-id="hlsproxy-100014", Романтичное HD
+#EXTINF:-1, Романтичное HD
 http://87.99.87.203:2007/channel/n5fd2cd7/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1, Кинеко HD
 http://87.99.87.203:2007/channel/nc375b3e/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
@@ -33,7 +33,6 @@ http://158.101.214.187:8080/channel/5891ba18/index.m3u8?q=6cca621bb017c120be8f52
 
 
 
-#EXTM3U url-tvg="http://158.101.214.187:8080/epg.xml.gz?q=eyJ1c2VySWQiOiLQn9C70Y7RiNCi0JIgT0cifQ.poKMoB5l1QAJzw19_Ul1UuoJqF0_WVICgGr0gzTTP3aQCXytBfPh_ayMwMahLrfHdS5t-ezkc-GAl4Bhht9_0g" description="Medium" size="Medium" background="#11609e"
 #EXTINF:-1 group-title="50FPS" tvg-id="okko-sport" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c9/Okko_%D0%A1%D0%BF%D0%BE%D1%80%D1%82_%282019%2C_%D1%84%D0%BE%D0%BD%29.jpg/revision/latest?cb=20190609081550&path-prefix=ru" tvg-shift="0",Okko Спорт HD
 http://158.101.194.132:8888/channel/79f180dd/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
 #EXTINF:-1 group-title="50FPS" tvg-shift="0" tvg-id="hlsproxy-420" tvg-logo="http://158.101.214.187:8080/logos/match-arena-hd.png",Матч! Арена HD
