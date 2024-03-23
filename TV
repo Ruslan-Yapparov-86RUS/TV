@@ -524,25 +524,6 @@ http://87.99.87.203:2007/channel/n231babad/index.m3u8?q=52c8abe37164a6d25a67fe50
 
 
 
-
-#EXTINF:-1 tvg-rec="3" group-title="С архивами", Дорама HD
-http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/2131/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="С архивами", Кинеко HD
-http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/9135/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="С архивами",Дорама HD
-http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/2131/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="С архивами",Кинеко HD
-http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/9135/index.m3u8
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://87.99.87.203/logo/hlab.png" group-title="History LAB" tvg-shift="0","Мы там умирали". Воспоминания узницы нацистского концлагеря "Озаричи". Интервью
 https://rr9---sn-axq7sn7l.googlevideo.com/videoplayback?expire=1711123578&ei=Glj9Zc-FEYqe0u8P-M-HKA&ip=87.99.87.203&id=o-AFfN0GKNtXgqSkWLWheOtjiJWh4Ki0xQoKwBIOR4DMLM&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=rO&mm=31%2C29&mn=sn-axq7sn7l%2Csn-5go7ynl6&ms=au%2Crdu&mv=m&mvi=9&pl=22&initcwndbps=2997500&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=1897.418&lmt=1708952463534784&mt=1711101650&fvip=2&fexp=51141542&c=ANDROID&txp=4432434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgZm7A0rfZNgX5AMwXUgCTO2pMmOGxITWJyxTNPuf1st0CIQCL38PaStGpuxMnpzHu7AOw7Iv_KB37PsuP_yduhh9fwg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ALClDIEwRAIgMPKPbDj3b11TD3HNGdKJoDAram_YyGUYRA-7i3X5bHwCICZhHjnYi_9Zq39G4Rq9U2_IFwP6Cb-tLFbBDPD3bfsc
 #EXTINF:-1 tvg-logo="http://87.99.87.203/logo/hlab.png" group-title="History LAB" tvg-shift="0",30 лет распада СССР. История в лицах. Александр Лукашенко
@@ -2529,641 +2510,6 @@ http://158.101.214.187:8080/channel/51ff1f4c/index.m3u8?q=6cca621bb017c120be8f52
 http://158.101.214.187:8080/channel/21b13c9c/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Voka" tvg-shift="0" tvg-id="hlsproxy-8007" tvg-logo="https://dl.dropboxusercontent.com/s/n4ed6ffuoptz2qw/minsk.png",Яснае ТВ HD
 http://158.101.214.187:8080/channel/n4d58ddc7/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-http://158.101.214.187:8080/channel/68fcb286/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-488" tvg-logo="https://dl.dropboxusercontent.com/s/kn385o1owuofnub/arm1.png",1TV Armenia
-http://158.101.214.187:8080/channel/6a98e1bd/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/21_TV_Armenia_logo.svg/785px-21_TV_Armenia_logo.svg.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-599",21TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/6d8f96a9/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/yigw9dr.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-8445",5-րդ ալիք
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/238d1760/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-8021",ATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/bcb0fdb/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/cndJCRU.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-8021",ATV Թավա TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/n55ff2d6e/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/mrfm9uY.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-8021",ATV ԽաղԱլիք
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/7cef58fd/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/KCkzU5R.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-8021",ATV Հայ TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/19981893/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/uWBrDpV.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-8021",ATV Ֆիլմզոն
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/n47ba949e/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/IxOFvqz.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-54862",Armenia Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/51da2c/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/XwbLfqd.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-487",Armenia Հայ Կինո
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/n70d91a5b/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/AhX46e5.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-487",Armenia Ջան TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/n513e46b3/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/fRfGuQg.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-487",Armenia Սինեմաքս
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/32a324be/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/XjhkUXy.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-487",Armenia Տուն Թունիկ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/256d76f/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/pvF7dGN.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-487",Armenia Քոմեդի
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/n408b0b39/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.ibb.co/Fmr4gG9/SGN-12-18-2021-1639837555217.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-55160",Azatutyun
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/3e32a5f/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-51117",Fresh TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/4c91bd17/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" group-title="Армения" tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png" tvg-shift="0" tvg-id="hlsproxy-491",Shant
-http://158.101.214.187:8080/channel/3919abe/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" group-title="Армения" tvg-logo="https://i.ibb.co/tCp8yJ7/SGN-03-22-2022-1647975860232.png" tvg-shift="0" tvg-id="hlsproxy-491",Shant Gumri
-http://158.101.214.187:8080/channel/501083b4/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" group-title="Армения" tvg-logo="https://i.ibb.co/9TshFzy/SGN-03-22-2022-1647975607317.png" tvg-shift="0" tvg-id="hlsproxy-2461",Shant Kids
-http://158.101.214.187:8080/channel/n6081f551/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" group-title="Армения" tvg-logo="https://i.ibb.co/jrsYBLc/SGN-03-22-2022-1647975732004.png" tvg-shift="0" tvg-id="hlsproxy-53836",Shant Music
-http://158.101.214.187:8080/channel/50652623/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Armenian_Public_TV_logo.svg/507px-Armenian_Public_TV_logo.svg.png" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-488",Առաջին ալիք
-http://158.101.214.187:8080/channel/n61aa91b4/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/fnoOw8T.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-487",Արմենիա TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/n39b7e562/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/FKpxkVH.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-8101",Երկիր Մեդիա
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/n161927b6/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Armenian_Second_TV_Channel_logo.svg/800px-Armenian_Second_TV_Channel_logo.svg.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-489",Հ2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/n7b7cf966/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/EmOsMTC.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-51164",Նոր Հայաստան
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/n15f99202/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.imgur.com/e4VxCnn.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Армения" tvg-shift="0" tvg-id="hlsproxy-8509",Շողակաթ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://158.101.214.187:8080/channel/n2587ffd1/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2004" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/num/3sat-de.png",3sat HD
-http://158.101.194.132:8888/channel/n7db41d01/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-791" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/anixe-plus-de.png",ANIXE HD
-http://158.101.194.132:8888/channel/n5a344403/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-791" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/anixe-plus-de.png",ANIXE+
-http://158.101.194.132:8888/channel/n389180b4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",ANTENNE BAYERN
-http://158.101.194.132:8888/channel/n5ac0bb76/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2007" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/ard_alpha_de.png",ARD alpha HD
-http://158.101.194.132:8888/channel/n680cfd8b/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12000" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/atv_at_hd.png",ATV HD
-http://158.101.194.132:8888/channel/n3837dc9d/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12001" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/atv2_at.png",ATV2 HD
-http://158.101.194.132:8888/channel/3143e243/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2016" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/astro_tv_de.png",AstroTV
-http://158.101.194.132:8888/channel/67ef2077/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",BILD HD
-http://158.101.194.132:8888/channel/52e01253/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-621" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/bb/baden_tv.png",Baden TV
-http://158.101.194.132:8888/channel/299ffdbe/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2026" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bibel_tv_de.png",Bibel TV
-http://158.101.194.132:8888/channel/n3298c236/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2026" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bibel_tv_de.png",Bibel TV HD
-http://158.101.194.132:8888/channel/14ff712/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2043" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/cc/channel_21_de.png",Channel21
-http://158.101.194.132:8888/channel/n196afd88/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2043" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/cc/channel_21_de.png",Channel21 HD
-http://158.101.194.132:8888/channel/166acba4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",ClipMyHorse.TV
-http://158.101.194.132:8888/channel/n2d1a76c7/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",Crime Time
-http://158.101.194.132:8888/channel/n525737db/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2058" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/dd/deluxe_music_de.png",DELUXE MUSIC
-http://158.101.194.132:8888/channel/33dee706/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-1147" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/dd/dmax_uk.png",DMAX
-http://158.101.194.132:8888/channel/n5bf53756/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12005" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/dd/dmax_at.png",DMAX Austria
-http://158.101.194.132:8888/channel/1f0129bf/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2057" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/ard_das_erste.png",Das Erste HD
-http://158.101.194.132:8888/channel/28782119/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-52724" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/dd/deluxe_music_de_hd.png",Deluxe Music HD
-http://158.101.194.132:8888/channel/3dae1836/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",Deluxe Rap
-http://158.101.194.132:8888/channel/1d6e6562/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",Deluxe Rock
-http://158.101.194.132:8888/channel/n6fa185bc/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-66" tvg-logo="http://158.101.214.187:8080/logos/disney-kanal.png",Disney Channel
-http://158.101.194.132:8888/channel/n71865b1f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-66" tvg-logo="http://158.101.214.187:8080/logos/disney-kanal.png",Disney Channel HD
-http://158.101.194.132:8888/channel/n2255b65/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-11007" tvg-logo="http://158.101.214.187:8080/logos/euronews.png",EURONEWS GERMAN SD
-http://158.101.194.132:8888/channel/1c3a96f5/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-20286" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ee/ewtn_us.png",EWTN katholisches TV
-http://158.101.194.132:8888/channel/n3b15778c/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-51993" tvg-logo="https://dl.dropboxusercontent.com/s/64bvn0pueb7jn4c/eurospo1.png",Eurosport 1 Deutschland
-http://158.101.194.132:8888/channel/n65b790af/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-72" tvg-logo="http://158.101.214.187:8080/logos/eurosport-hd.png",Eurosport 1 HD
-http://158.101.194.132:8888/channel/26d618ee/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-31014" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ff/folx_si.png",FOLX MUSIC TELEVISION
-http://158.101.194.132:8888/channel/62346cce/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",Flimmit
-http://158.101.194.132:8888/channel/63df0f24/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-822" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/gg/genius-plus-tv-de.png",Genius Trend
-http://158.101.194.132:8888/channel/34f4b7de/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-1132" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/gg/genius-exklusiv-de.png",Genius exklusiv
-http://158.101.194.132:8888/channel/n485b7262/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-1524" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/gg/genius-family-de.png",Genius family
-http://158.101.194.132:8888/channel/n78927edd/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2603" tvg-logo="http://158.101.214.187:8080/logos/hgtv.png",HGTV
-http://158.101.194.132:8888/channel/n5bf37a15/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",HITRADIO OE3
-http://158.101.194.132:8888/channel/478ff96f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",HSE Extra
-http://158.101.194.132:8888/channel/na0ef700/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",HSE Extra HD
-http://158.101.194.132:8888/channel/7c86d81c/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",HSE HD
-http://158.101.194.132:8888/channel/n2c5bc214/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",HSE SD
-http://158.101.194.132:8888/channel/n2c5bc0bf/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",HSE Trend SD
-http://158.101.194.132:8888/channel/3b8364c4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-1160" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/hh/handystar-de.png",Handystar TV
-http://158.101.194.132:8888/channel/334f5a30/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-1160" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/hh/handystar-de.png",Handystar TV 2
-http://158.101.194.132:8888/channel/n631e6dbe/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-1160" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/hh/handystar-de.png",Handystar TV HD
-http://158.101.194.132:8888/channel/naf4714/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2097" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/hh/heimatkanal.png",Heimatkanal
-http://158.101.194.132:8888/channel/452ba025/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-51526" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hope_channel_us.png",Hope TV
-http://158.101.194.132:8888/channel/n2cd812a4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",I24 Francis
-http://158.101.194.132:8888/channel/n59afcc2b/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-9146" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ii/insight-hd-nl.png",INSIGHT TV HD
-http://158.101.194.132:8888/channel/n5a5fb638/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",Immer etwas Neues TV
-http://158.101.194.132:8888/channel/2855bb70/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",Just Cooking
-http://158.101.194.132:8888/channel/n21f1ff70/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",Just Fishing
-http://158.101.194.132:8888/channel/72ba9f80/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",KURIER TV
-http://158.101.194.132:8888/channel/7815de6a/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12016" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kabel_eins_at.png",Kabel 1 Austria
-http://158.101.194.132:8888/channel/67ac654f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2111" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kabel_eins_de.png",Kabel 1 Schweiz
-http://158.101.194.132:8888/channel/8b7e91/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-826" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kabel_eins_de_doku.png",Kabel Eins Doku HD
-http://158.101.194.132:8888/channel/n2fcc1d99/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2113" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kika_de.png",KiKA HD
-http://158.101.194.132:8888/channel/6583c6de/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2119" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/mm/mdr_fernsehen_sachsen_anhalt.png",MDR S-Anhalt HD
-http://158.101.194.132:8888/channel/3f078be5/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2118" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/mm/mdr_fernsehen_sachsen.png",MDR Sachsen HD
-http://158.101.194.132:8888/channel/7f5e79a2/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-835" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/mm/mdr_fernsehen_thuringen.png",MDR Thüringen HD
-http://158.101.194.132:8888/channel/n349e66b6/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-167" tvg-logo="http://158.101.214.187:8080/logos/mtv-russia.png",MTV HD
-http://158.101.194.132:8888/channel/n23bdb529/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2127" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/mm/media_shop.png",MediaShop- Meine Einkaufswelt
-http://158.101.194.132:8888/channel/n5e21f96d/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2127" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/mm/media_shop.png",MediaShop- Neuheiten
-http://158.101.194.132:8888/channel/25ba156c/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12018" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/mm/melodie_tv_at.png",Melodie TV NEU
-http://158.101.194.132:8888/channel/n72f6745b/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-839" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/nn/n24_de_doku.png",N24 DOKU
-http://158.101.194.132:8888/channel/n3de2491/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2169" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nitro_de.png",NITRO
-http://158.101.194.132:8888/channel/n222652f4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2169" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nitro_de.png",NITRO HD
-http://158.101.194.132:8888/channel/n9ced770/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",Nick/Comedy Central Austria
-http://158.101.194.132:8888/channel/1bf4faa5/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-844" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/ard_one.png",ONE HD
-http://158.101.194.132:8888/channel/n20b04b40/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12024" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_3_at.png",ORF III HD
-http://158.101.194.132:8888/channel/4df73bfa/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12026" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_sport_plus.png",ORF SPORT+
-http://158.101.194.132:8888/channel/5f6dcdfe/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12026" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_sport_plus.png",ORF SPORT+ HD
-http://158.101.194.132:8888/channel/2b170a5e/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12025" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_eins.png",ORF1
-http://158.101.194.132:8888/channel/n5bf02408/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12025" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_eins.png",ORF1 HD
-http://158.101.194.132:8888/channel/118f8224/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12023" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_2_at.png",ORF2
-http://158.101.194.132:8888/channel/n5bf02407/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12023" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_2_at.png",ORF2 B
-http://158.101.194.132:8888/channel/n20773a25/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12023" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_2_at.png",ORF2 K
-http://158.101.194.132:8888/channel/n20773a1c/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12023" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_2_at.png",ORF2 N
-http://158.101.194.132:8888/channel/n20773a19/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12023" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_2_at.png",ORF2 O
-http://158.101.194.132:8888/channel/n20773a18/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12023" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_2_at.png",ORF2 S
-http://158.101.194.132:8888/channel/n20773a14/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12023" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_2_at.png",ORF2 St
-http://158.101.194.132:8888/channel/118ff808/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12023" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_2_at.png",ORF2 T
-http://158.101.194.132:8888/channel/n20773a13/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12023" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_2_at.png",ORF2 V
-http://158.101.194.132:8888/channel/n20773a11/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12023" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/orf_2_at.png",ORF2 W
-http://158.101.194.132:8888/channel/n20773a10/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",ORF2B HD
-http://158.101.194.132:8888/channel/207db913/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",ORF2E
-http://158.101.194.132:8888/channel/n22145c94/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",ORF2K HD
-http://158.101.194.132:8888/channel/2081d06a/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",ORF2N HD
-http://158.101.194.132:8888/channel/20832d87/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",ORF2O HD
-http://158.101.194.132:8888/channel/2083a1e6/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",ORF2S HD
-http://158.101.194.132:8888/channel/20857362/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",ORF2St HD
-http://158.101.194.132:8888/channel/nfb16d5e/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",ORF2T HD
-http://158.101.194.132:8888/channel/2085e7c1/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",ORF2V HD
-http://158.101.194.132:8888/channel/2086d07f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",ORF2W HD
-http://158.101.194.132:8888/channel/208744de/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12029" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/pp/puls-4-at.png",PULS 4 Austria
-http://158.101.194.132:8888/channel/n7e66e3e1/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2157" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_maxx_de.png",Pro7 MAXX
-http://158.101.194.132:8888/channel/nbf9540/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2157" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_maxx_de.png",Pro7 MAXX HD
-http://158.101.194.132:8888/channel/n16b8e1a4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2155" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_de.png",ProSieben
-http://158.101.194.132:8888/channel/3318365f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12027" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_at.png",ProSieben Austria
-http://158.101.194.132:8888/channel/48b41274/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2155" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_de.png",ProSieben HD
-http://158.101.194.132:8888/channel/n116045a3/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-11019" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/pp/pro_sieben_ch.png",ProSieben Schweiz
-http://158.101.194.132:8888/channel/n1e6cd44a/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-1323" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/qq/qvc.png",QVC
-http://158.101.194.132:8888/channel/n5dcde8ac/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2159" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/qq/qvc_de.png",QVC HD
-http://158.101.194.132:8888/channel/n1cd6c6b8/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-1322" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/qq/qvc-style.png",QVC STYLE HD
-http://158.101.194.132:8888/channel/n5a6612c9/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-1323" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/qq/qvc.png",QVC UHD
-http://158.101.194.132:8888/channel/n7e01debb/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2158" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/qq/qvc-zwei.png",QVC ZWEI HD
-http://158.101.194.132:8888/channel/4a19980f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-53461" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/qq/qvc-2-us.png",QVC2
-http://158.101.194.132:8888/channel/n5bef2ca2/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-1632" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/r_9_at.png",R9 Oesterreich HD
-http://158.101.194.132:8888/channel/n75afe14c/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2173" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/regio_tv_de.png",REGIO TV
-http://158.101.194.132:8888/channel/n5490e30e/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-4176" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rock_tv_it.png",ROCK ANTENNE
-http://158.101.194.132:8888/channel/n2ebce72a/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12030" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl_at.png",RTL Austria
-http://158.101.194.132:8888/channel/3825e5f5/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2167" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl_de.png",RTL Bayern
-http://158.101.194.132:8888/channel/n47e56399/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2167" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl_de.png",RTL HB NDS
-http://158.101.194.132:8888/channel/n3f85f989/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-8184" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl_de_hd.png",RTL HD
-http://158.101.194.132:8888/channel/n1b3a05c4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2167" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl_de.png",RTL HH SH
-http://158.101.194.132:8888/channel/n65229fcb/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2167" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl_de.png",RTL Regional NRW
-http://158.101.194.132:8888/channel/n482f710e/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2167" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl_de.png",RTL Television
-http://158.101.194.132:8888/channel/na58ba8e/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-1760" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl-uhd-de.png",RTL UHD
-http://158.101.194.132:8888/channel/n4c06812f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2165" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl-zwei-de.png",RTLZWEI
-http://158.101.194.132:8888/channel/n4bec1c7f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12032" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl-zwei-de.png",RTLZWEI Austria
-http://158.101.194.132:8888/channel/n7136826a/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2165" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl-zwei-de.png",RTLZWEI HD
-http://158.101.194.132:8888/channel/n29879e05/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",RTLup
-http://158.101.194.132:8888/channel/n21e90e85/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",RTLup Austria
-http://158.101.194.132:8888/channel/4a43f190/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",RTLup HD
-http://158.101.194.132:8888/channel/n3010263f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2164" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/ric_tv_de.png",RiC
-http://158.101.194.132:8888/channel/n5dcde29e/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2177" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/romance_tv_de.png",Romance TV HD
-http://158.101.194.132:8888/channel/1ab52c0f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",SACHSEN EINS
-http://158.101.194.132:8888/channel/7a3daf2a/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2178" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sat1.png",SAT.1
-http://158.101.194.132:8888/channel/n21e384e1/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2178" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sat1.png",SAT.1 A
-http://158.101.194.132:8888/channel/n3715cc80/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2179" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sat1_de_bayern.png",SAT.1 Bayern
-http://158.101.194.132:8888/channel/222e4748/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2178" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sat1.png",SAT.1 CH
-http://158.101.194.132:8888/channel/545c3d06/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2181" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sat1_gold_de.png",SAT.1 Gold
-http://158.101.194.132:8888/channel/n51bc7b1f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2181" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sat1_gold_de.png",SAT.1 Gold HD
-http://158.101.194.132:8888/channel/4344c49b/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2178" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sat1.png",SAT.1 HD
-http://158.101.194.132:8888/channel/545c3d9d/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2178" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sat1.png",SAT.1 HH/SH
-http://158.101.194.132:8888/channel/1a288d83/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2184" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sat1_nrw.png",SAT.1 NRW
-http://158.101.194.132:8888/channel/372b8e92/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2178" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sat1.png",SAT.1 NS/Bremen
-http://158.101.194.132:8888/channel/6614a38a/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2178" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sat1.png",SAT.1 RhlPf/Hessen
-http://158.101.194.132:8888/channel/n63b368f6/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-20816" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sonlife_broadcasting_network_international.png",SBN International
-http://158.101.194.132:8888/channel/n25fc81fd/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2191" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/nn/new_jerusalem_broadcasting.png",SENDER NEU JERUSALEM
-http://158.101.194.132:8888/channel/54c55645/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2197" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sixx.png",SIXX
-http://158.101.194.132:8888/channel/n5bee7200/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2197" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sixx.png",SIXX HD
-http://158.101.194.132:8888/channel/n2923cce4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2223" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sport1_de.png",SPORT1
-http://158.101.194.132:8888/channel/n19bb70f9/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2223" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sport1_de.png",SPORT1 HD
-http://158.101.194.132:8888/channel/n7bbf3f4b/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2224" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sport1_de_plus.png",SPORT1+
-http://158.101.194.132:8888/channel/n1db2adfc/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2226" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sportdigital-fussball-de.png",SPORTDIGITAL FUSSBALL HD
-http://158.101.194.132:8888/channel/7099ff9c/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-848" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sr_fernsehen.png",SR Fernsehen
-http://158.101.194.132:8888/channel/n5b9c7f53/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-848" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sr_fernsehen.png",SR Fernsehen HD
-http://158.101.194.132:8888/channel/173ba54f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2228" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/super_rtl_de.png",SUPER RTL
-http://158.101.194.132:8888/channel/n55c54fe5/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2228" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/super_rtl_de.png",SUPER RTL A
-http://158.101.194.132:8888/channel/64f197c/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2228" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/super_rtl_de.png",SUPER RTL HD
-http://158.101.194.132:8888/channel/n3c6be8df/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-850" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_bw.png",SWR BW HD
-http://158.101.194.132:8888/channel/n5c230375/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2189" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_rp.png",SWR RP HD
-http://158.101.194.132:8888/channel/n5b44b9fe/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-54240" tvg-logo="https://dl.dropboxusercontent.com/s/e5p5to5yku760nw/schlag-delux.png",Schlager Deluxe
-http://158.101.194.132:8888/channel/5fae9b66/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2192" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/servus_tv_de.png",ServusTV HD Deutschland
-http://158.101.194.132:8888/channel/n2c622201/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2192" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/servus_tv_de.png",ServusTV HD Oesterreich
-http://158.101.194.132:8888/channel/4673fb33/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2218" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sonnenklar_tv.png",Sonnenklar TV
-http://158.101.194.132:8888/channel/5f64aa1/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2227" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/starparadies_tv_de.png",StarParadies D
-http://158.101.194.132:8888/channel/5572d4f3/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",Stimmungsgarten TV
-http://158.101.194.132:8888/channel/n33ca9966/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-5142" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tele5_pl.png",TELE 5
-http://158.101.194.132:8888/channel/n18a32f17/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-166" tvg-logo="http://158.101.214.187:8080/logos/tlc.png",TLC
-http://158.101.194.132:8888/channel/n5dcdde9f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2231" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tlc_de.png",TLC Austria
-http://158.101.194.132:8888/channel/n76c4248a/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-322" tvg-logo="http://158.101.214.187:8080/logos/tlc-hd.png",TLC HD
-http://158.101.194.132:8888/channel/n184527e5/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-852" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/tt/toggo_plus_de.png",TOGGO plus
-http://158.101.194.132:8888/channel/n2a647a30/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-5121" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv_trwam.png",TV Trwam
-http://158.101.194.132:8888/channel/n4365666f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-51792" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv1_bg.png",TV1 OOE NEU
-http://158.101.194.132:8888/channel/485a9aa8/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-10234" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/tt/telesur_mx.png",Telesur HD
-http://158.101.194.132:8888/channel/c1f87c0/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2256" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/vv/vox_de.png",VOX
-http://158.101.194.132:8888/channel/n5dcdd6ab/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-12042" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/vv/vox_at.png",VOX Austria
-http://158.101.194.132:8888/channel/n46815096/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2256" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/vv/vox_de.png",VOX HD
-http://158.101.194.132:8888/channel/n14a7a459/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2413" tvg-logo="https://dl.dropboxusercontent.com/s/t1rs8xi2am740td/voxup.png",VOXup
-http://158.101.194.132:8888/channel/n21b2c950/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2413" tvg-logo="https://dl.dropboxusercontent.com/s/t1rs8xi2am740td/voxup.png",VOXup HD
-http://158.101.194.132:8888/channel/7b6f8c6c/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-100251" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/vv/volksmusik-tv-de.png",Volksmusik.TV
-http://158.101.194.132:8888/channel/n63eb76ac/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-100251" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/vv/volksmusik-tv-de.png",Volksmusik.TV NEU
-http://158.101.194.132:8888/channel/15778b2/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-100128" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ww/waidwerk-de.png",WAIDWERK
-http://158.101.194.132:8888/channel/n1d9c866a/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-738" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ww/wdr_dusseldorf.png",WDR Düsseldorf
-http://158.101.194.132:8888/channel/739cb643/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2257" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ww/wdr_aachen.png",WDR Wuppertal
-http://158.101.194.132:8888/channel/n77421911/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2136" tvg-logo="http://158.101.214.187:8080/logos/welt.png",WELT
-http://158.101.194.132:8888/channel/n5becb100/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-100028" tvg-logo="http://158.101.214.187:8080/logos/welt-hd.png",WELT HD
-http://158.101.194.132:8888/channel/n5d092de4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",Xplore
-http://158.101.194.132:8888/channel/nf62a648/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2271" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/zz/zdf_de.png",ZDF HD
-http://158.101.194.132:8888/channel/ne777316/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2272" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/zz/zdf_info.png",ZDFinfo HD
-http://158.101.194.132:8888/channel/7d52a7c/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-51042" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/arte_fr.png",arte HD
-http://158.101.194.132:8888/channel/2fa9d10/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2093" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hr_fernsehen_de.png",hr-fernsehen HD
-http://158.101.194.132:8888/channel/n3b2f6f0f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2111" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kabel_eins_de.png",kabel eins
-http://158.101.194.132:8888/channel/n71c95760/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-826" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kabel_eins_de_doku.png",kabel eins Doku
-http://158.101.194.132:8888/channel/n5b62bd2b/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2111" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kabel_eins_de.png",kabel eins HD
-http://158.101.194.132:8888/channel/n754e6b84/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",krone.tv
-http://158.101.194.132:8888/channel/633a605b/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2130" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/mm/mein_tv_shop.png",meinTVshop
-http://158.101.194.132:8888/channel/5526961f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-8428" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png",ntv
-http://158.101.194.132:8888/channel/n5dcd77fa/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-8428" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png",ntv Austria
-http://158.101.194.132:8888/channel/5d91cd1b/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-100029" tvg-logo="http://158.101.214.187:8080/logos/n-tv-hd.png",ntv HD
-http://158.101.194.132:8888/channel/1663b356/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-54533" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/oo/oe_24_tv_at.png",oe24.TV HD
-http://158.101.194.132:8888/channel/n50d330d2/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2149" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/pp/pearl_tv_de.png",pearl.tv Shop
-http://158.101.194.132:8888/channel/n17e5e9e/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2161" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rbb_berlin.png",rbb Berlin HD
-http://158.101.194.132:8888/channel/n5ed5633e/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2162" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rbb_brandenburg.png",rbb Brandenburg HD
-http://158.101.194.132:8888/channel/3001a05c/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2197" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sixx.png",sixx
-http://158.101.194.132:8888/channel/n5bdf6a00/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0",sunshine live
-http://158.101.194.132:8888/channel/e82c6e3/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2244" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tagesschau24.png",tagesschau24 HD
-http://158.101.194.132:8888/channel/n7fc877d4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:-1 group-title="Германия" tvg-shift="0" tvg-id="hlsproxy-2274" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/zz/zdf_neo.png",zdf_neo HD
-http://158.101.194.132:8888/channel/4aa6251/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16449/27e9bcc0-8d83-11ec-a912-d543699b3d6b_100x100.png" group-title="Грузия" tvg-shift="0",BMG
-http://158.101.194.132:8888/channel/27681ae8/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16204/7a30de80-af29-11eb-b20c-019d02e088b4_100x100.png" group-title="Грузия" tvg-shift="0",CTV
-http://158.101.194.132:8888/channel/27681f91/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/17000/3b80f220-8254-11ee-b00c-f5124d22a9a3_100x100.png" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-70",Euronews Georgia
-http://158.101.194.132:8888/channel/ncc4220e/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/17000/3b80f220-8254-11ee-b00c-f5124d22a9a3_100x100.png" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-70",Euronews Georgia
-http://158.101.194.132:8888/channel/ncc4220e/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15822/4561de40-53c1-11ea-91cb-77aae4f8149f_100x100.png" group-title="Грузия" tvg-shift="0",GMS
-http://158.101.194.132:8888/channel/27682db9/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15761/bc9d7720-1c14-11ea-aa7e-410076ea60e0_100x100.png" group-title="Грузия" tvg-shift="0",GMTV
-http://158.101.194.132:8888/channel/n3a627624/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15985/15181a90-e78c-11ea-9a5f-8dd25de73e7d_100x100.png" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-10110",Green TV
-http://158.101.194.132:8888/channel/91c12d3/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16739/d0e49900-957e-11ed-b7ee-af763ce424da_100x100.png" group-title="Грузия" tvg-shift="0",Meteo24
-http://158.101.194.132:8888/channel/2012f3b4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15453/ab3a61d0-0432-11e9-9f60-a1b6ef7d0b7e_100x100.png" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-351",O2
-http://158.101.194.132:8888/channel/11c98eb7/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/0f4c1070-a837-11e7-95f2-a3fbcdfc89af_100x100.png" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-53752",PKTV
-http://158.101.194.132:8888/channel/n3a5e664f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/211b4980-a824-11e7-a0ee-4fd85670e2eb_100x100.png" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-7086",Palitranews
-http://158.101.194.132:8888/channel/n6b697a8c/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/211b4980-a824-11e7-a0ee-4fd85670e2eb_100x100.png" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-7086",Palitranews
-http://158.101.194.132:8888/channel/n6b697a8c/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15194/d68e6480-17c6-11e8-97e0-c9db7c48154e_100x100.png" group-title="Грузия" tvg-shift="0",Parvana Tv
-http://158.101.194.132:8888/channel/n57b93249/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15495/e3d72f00-2a0a-11e9-948d-358c2a2c02cb_100x100.png" group-title="Грузия" tvg-shift="0",Positive TV
-http://158.101.194.132:8888/channel/nfbf108b/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/c8fd2060-a836-11e7-a6cd-a586c0243cc4_100x100.png" group-title="Грузия" tvg-shift="0",Shoni TV
-http://158.101.194.132:8888/channel/n17c71f5f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16039/a6f4fed0-1912-11eb-840c-e56417eaa62b_100x100.png" group-title="Грузия" tvg-shift="0",TAFU TV
-http://158.101.194.132:8888/channel/525f78b2/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15186/0ec9a730-10ba-11e8-9599-c71a63ba0839_100x100.png" group-title="Грузия" tvg-shift="0",TOK TV
-http://158.101.194.132:8888/channel/n1557259a/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16682/36ef9970-61b6-11ed-829d-8d963b6a9105_100x100.jpeg" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-22087",TV 12
-http://158.101.194.132:8888/channel/n1131ccf5/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15283/304d2e20-6958-11e8-b975-59a41ad5fc25_100x100.png" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-22089",TV 4
-http://158.101.194.132:8888/channel/n3a5c71f6/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15990/ac1e4870-ec44-11ea-86cb-1703e28410c1_100x100.png" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-8250",TV 9
-http://158.101.194.132:8888/channel/n3a5c71f1/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16174/02b94760-9392-11eb-a1e0-e14aba1a4dcd_100x100.png" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-676",TV მონიტორინგი
-http://158.101.194.132:8888/channel/26ad0407/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16777/3c072a10-b806-11ed-bab3-c5b1929abea3_100x100.png" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-676",TV პლიუსი
-http://158.101.194.132:8888/channel/e792608/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15530/99396570-4a23-11e9-8333-b99161ee92e7_100x100.png" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-676",TV საფერავი
-http://158.101.194.132:8888/channel/n70eab6c4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16746/771ad780-9bc0-11ed-b9a0-d74369a24ce1_100x100.png" group-title="Грузия" tvg-shift="0" tvg-id="hlsproxy-53739",TVC
-http://158.101.194.132:8888/channel/27685f8d/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15470/bf3dde10-1322-11e9-821f-e504666d01fd_100x100.png" group-title="Грузия" tvg-shift="0",აგრო TV
-http://158.101.194.132:8888/channel/n73f92bb1/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15543/28fe0690-55ee-11e9-9ba2-0de29632ce88_100x100.png" group-title="Грузия" tvg-shift="0",აგროგარემო
-http://158.101.194.132:8888/channel/7c1688c7/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16101/d1a76c60-5189-11eb-8820-e30c6e5204d9_100x100.png" group-title="Грузия" tvg-shift="0",ალტ-ინფო
-http://158.101.194.132:8888/channel/n43df42fa/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15707/d2310610-ea9c-11e9-864b-25951a1f987d_100x100.png" group-title="Грузия" tvg-shift="0",არგო
-http://158.101.194.132:8888/channel/n329df7b1/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16150/dec13d30-7da4-11eb-bf86-9570b6ce8ed3_100x100.png" group-title="Грузия" tvg-shift="0",არტარეა
-http://158.101.194.132:8888/channel/n5bbe1c16/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/d39509e0-a823-11e7-a637-d163e85f46ab_100x100.png" group-title="Грузия" tvg-shift="0",აფხაზეთის ხმა
-http://158.101.194.132:8888/channel/n62185125/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16128/419947e0-69e7-11eb-9e9c-19f5350072f9_100x100.png" group-title="Грузия" tvg-shift="0",ახალი
-http://158.101.194.132:8888/channel/n211a9844/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/97db3370-a837-11e7-9007-3586c105979b_100x100.png" group-title="Грузия" tvg-shift="0",ბათუმი TV
-http://158.101.194.132:8888/channel/n747183ba/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/9e5fcd10-a827-11e7-b1b2-3367f0586f43_100x100.png" group-title="Грузия" tvg-shift="0",ბასტი ბუბუ
-http://158.101.194.132:8888/channel/n28ba4e60/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15989/637315d0-eb67-11ea-82f2-e119ced2908f_100x100.png" group-title="Грузия" tvg-shift="0",ბორჯომი TV
-http://158.101.194.132:8888/channel/n65632ca9/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16197/dbc441c0-a803-11eb-aa3a-e15f758d42bb_100x100.png" group-title="Грузия" tvg-shift="0",გირჩი TV
-http://158.101.194.132:8888/channel/a3d5e0d/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15515/dc00f020-3c2d-11e9-bd8d-2917de551c74_100x100.png" group-title="Грузия" tvg-shift="0",გურია TV
-http://158.101.194.132:8888/channel/4f2eb74f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/469be110-a832-11e7-8ce1-27a810f741b9_100x100.png" group-title="Грузия" tvg-shift="0",გურჯაანი
-http://158.101.194.132:8888/channel/50b38990/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/393426c0-a828-11e7-a3c7-550a9bed51ed_100x100.png" group-title="Грузия" tvg-shift="0",დარდიმანდი
-http://158.101.194.132:8888/channel/2a3c9af8/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15702/aab0a800-e683-11e9-8c77-39f4e298106f_100x100.png" group-title="Грузия" tvg-shift="0",ეგრისი
-http://158.101.194.132:8888/channel/317b081/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/c5f26140-a827-11e7-ab81-6dd8ad7604f8_100x100.png" group-title="Грузия" tvg-shift="0",ენკიბენკი
-http://158.101.194.132:8888/channel/7da3313d/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15387/dc5ea340-c7c8-11e8-bd6f-3936b4be621a_100x100.png" group-title="Грузия" tvg-shift="0",ერთსულოვნება
-http://158.101.194.132:8888/channel/n3fbf2950/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16679/a111d840-5f3e-11ed-abd5-f7f4eff00f59_100x100.jpeg" group-title="Грузия" tvg-shift="0",ერი მედია
-http://158.101.194.132:8888/channel/6148d04a/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16197/89c37b40-a804-11eb-a3e4-f30596281fb8_100x100.png" group-title="Грузия" tvg-shift="0",თავისუფალი არხი
-http://158.101.194.132:8888/channel/n53e0fda2/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16007/a6c829c0-fbe3-11ea-a819-cd009a6106f6_100x100.png" group-title="Грузия" tvg-shift="0",თანამგზავრი
-http://158.101.194.132:8888/channel/77da927b/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15158/21c12e70-f76f-11e7-a07b-01ee790cf170_100x100.png" group-title="Грузия" tvg-shift="0",იმედი HD
-http://158.101.194.132:8888/channel/286eefa/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15158/21c12e70-f76f-11e7-a07b-01ee790cf170_100x100.png" group-title="Грузия" tvg-shift="0",იმედი HD
-http://158.101.194.132:8888/channel/286eefa/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/08ae8d50-a842-11e7-95d2-6355e5550914_100x100.png" group-title="Грузия" tvg-shift="0",კავკასია
-http://158.101.194.132:8888/channel/26ca4938/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/08ae8d50-a842-11e7-95d2-6355e5550914_100x100.png" group-title="Грузия" tvg-shift="0",კავკასია
-http://158.101.194.132:8888/channel/26ca4938/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15984/493d1520-e6ab-11ea-a7f3-c14ab881f3f2_100x100.gif" group-title="Грузия" tvg-shift="0",კოლხეთი 89
-http://158.101.194.132:8888/channel/n76d8eb48/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15597/2c9069a0-86a6-11e9-9c54-dd6131dee8fb_100x100.png" group-title="Грузия" tvg-shift="0",კომედი არხი
-http://158.101.194.132:8888/channel/n73d265fc/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15597/2c9069a0-86a6-11e9-9c54-dd6131dee8fb_100x100.png" group-title="Грузия" tvg-shift="0",კომედი არხი
-http://158.101.194.132:8888/channel/n73d265fc/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15255/b12fb6a0-4f8d-11e8-a5ac-c5433ddbf646_100x100.png" group-title="Грузия" tvg-shift="0",მაესტრო
-http://158.101.194.132:8888/channel/n31e49ff7/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15255/b12fb6a0-4f8d-11e8-a5ac-c5433ddbf646_100x100.png" group-title="Грузия" tvg-shift="0",მაესტრო
-http://158.101.194.132:8888/channel/n31e49ff7/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/9ba18940-a824-11e7-a573-e34b01d4adae_100x100.png" group-title="Грузия" tvg-shift="0",მარაო
-http://158.101.194.132:8888/channel/n208cfdfc/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/9ba18940-a824-11e7-a573-e34b01d4adae_100x100.png" group-title="Грузия" tvg-shift="0",მარაო
-http://158.101.194.132:8888/channel/n208cfdfc/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15990/969aef40-ec37-11ea-94d9-2bf793bf4151_100x100.png" group-title="Грузия" tvg-shift="0",მეცხრე ტალღა
-http://158.101.194.132:8888/channel/n6013edc5/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16065/ac0dd920-3023-11eb-949e-65b3b4b81845_100x100.png" group-title="Грузия" tvg-shift="0",მეხუთე არხი
-http://158.101.194.132:8888/channel/36d6e1b/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16312/ce037440-115b-11ec-ab0e-a3c379237930_100x100.png" group-title="Грузия" tvg-shift="0",მზე
-http://158.101.194.132:8888/channel/27a87a65/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15681/22913180-d30e-11e9-b954-313437ef31a2_100x100.png" group-title="Грузия" tvg-shift="0",მთავარი არხი
-http://158.101.194.132:8888/channel/n53725699/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15681/22913180-d30e-11e9-b954-313437ef31a2_100x100.png" group-title="Грузия" tvg-shift="0",მთავარი არხი
-http://158.101.194.132:8888/channel/n53725699/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15991/06170de0-ecf5-11ea-8f9d-2bc0c6f0de79_100x100.png" group-title="Грузия" tvg-shift="0",ოდიში TV
-http://158.101.194.132:8888/channel/6ab646e4/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/2f2a1be0-a822-11e7-a08e-f1a99e1471eb_100x100.png" group-title="Грузия" tvg-shift="0",პირველი TV
-http://158.101.194.132:8888/channel/n51ca52cd/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15158/08308260-f76f-11e7-854d-53f4cad269bd_100x100.png" group-title="Грузия" tvg-shift="0",პირველი არხი HD
-http://158.101.194.132:8888/channel/n553060ef/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15158/08308260-f76f-11e7-854d-53f4cad269bd_100x100.png" group-title="Грузия" tvg-shift="0",პირველი არხი HD
-http://158.101.194.132:8888/channel/n553060ef/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15900/f875dec0-9a9f-11ea-8e48-41f1a8f548aa_100x100.png" group-title="Грузия" tvg-shift="0",პოსTV
-http://158.101.194.132:8888/channel/n205eda70/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15900/f875dec0-9a9f-11ea-8e48-41f1a8f548aa_100x100.png" group-title="Грузия" tvg-shift="0",პოსTV
-http://158.101.194.132:8888/channel/n205eda70/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16493/0c0ae770-b585-11ec-b266-c579d222996c_100x100.png" group-title="Грузия" tvg-shift="0",პრაიმ TV
-http://158.101.194.132:8888/channel/73c19625/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/1b860210-a828-11e7-a456-3b865f86d252_100x100.png" group-title="Грузия" tvg-shift="0",პულსი TV
-http://158.101.194.132:8888/channel/2402348a/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15071/f50dba20-a825-11e7-8bf7-65cca61a9422_100x100.png" group-title="Грузия" tvg-shift="0",რაგბი TV
-http://158.101.194.132:8888/channel/n7da1493/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15434/885ca740-f214-11e8-834e-c57ff331f0af_100x100.png" group-title="Грузия" tvg-shift="0",რადიო იმედი
-http://158.101.194.132:8888/channel/n56d49316/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15403/0ad88260-d6a0-11e8-92cc-9f7ea6b37d3e_100x100.png" group-title="Грузия" tvg-shift="0",რუსთავი 2
-http://158.101.194.132:8888/channel/n12922868/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15403/0ad88260-d6a0-11e8-92cc-9f7ea6b37d3e_100x100.png" group-title="Грузия" tvg-shift="0",რუსთავი 2
-http://158.101.194.132:8888/channel/n12922868/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15556/cdcac210-61b4-11e9-a93f-7790ff5a7538_100x100.png" group-title="Грузия" tvg-shift="0",სამეფო არხი
-http://158.101.194.132:8888/channel/576a9be5/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16377/c58eb3b0-4c2c-11ec-a2c9-5b768cc0593e_100x100.png" group-title="Грузия" tvg-shift="0",სეზონი TV
-http://158.101.194.132:8888/channel/3044e858/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15489/7067e250-247d-11e9-b493-bbcbc6692870_100x100.png" group-title="Грузия" tvg-shift="0",სტარვიზია
-http://158.101.194.132:8888/channel/n59d355fa/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16003/80485a10-f800-11ea-ab82-63b46979b164_100x100.png" group-title="Грузия" tvg-shift="0",სტერეო +
-http://158.101.194.132:8888/channel/1cb15235/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15738/d110ba00-06e3-11ea-9c12-17cd430ed5c3_100x100.png" group-title="Грузия" tvg-shift="0",ფორმულა
-http://158.101.194.132:8888/channel/n3ef727cf/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15738/d110ba00-06e3-11ea-9c12-17cd430ed5c3_100x100.png" group-title="Грузия" tvg-shift="0",ფორმულა
-http://158.101.194.132:8888/channel/n3ef727cf/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16178/96326310-9765-11eb-aedb-a5999ff6d89c_100x100.png" group-title="Грузия" tvg-shift="0",ქართული TV
-http://158.101.194.132:8888/channel/3d7974d7/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16001/1d853fb0-f678-11ea-af70-8f4ab38ae0ac_100x100.png" group-title="Грузия" tvg-shift="0",ქართული არხი
-http://158.101.194.132:8888/channel/n3351e331/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/15575/92d226e0-7317-11e9-96a8-b764a32bd9cd_100x100.png" group-title="Грузия" tvg-shift="0",ჭადრაკი TV
-http://158.101.194.132:8888/channel/54f3a077/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
-#EXTINF:0 tvg-logo="https://static.myvideo.ge/media/cache/image/16259/55873900-e08c-11eb-a871-618843f9f152_100x100.png" group-title="Грузия" tvg-shift="0",ჯორჯიან თაიმსი
-http://158.101.194.132:8888/channel/n60eac780/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
 #EXTINF:-1 group-title="Детские" tvg-shift="0" tvg-id="hlsproxy-40" tvg-logo="http://158.101.214.187:8080/logos/baby-tv.png",Baby Time
 http://158.101.214.187:8080/channel/3e3a1ad8/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Детские" tvg-shift="0" tvg-id="hlsproxy-52" tvg-logo="http://158.101.214.187:8080/logos/cartoon-network.png",Cartoon Network
@@ -3192,120 +2538,6 @@ http://158.101.214.187:8080/channel/11065cc4/index.m3u8?q=6cca621bb017c120be8f52
 http://158.101.214.187:8080/channel/n13f33053/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Детские" tvg-shift="0" tvg-id="hlsproxy-55078" tvg-logo="http://158.101.214.187:8080/logos/sovetskie-multfilmy.png",Советские Мультфильмы
 http://158.101.214.187:8080/channel/n4e935bfb/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-id="hlsproxy-50335" tvg-name="9 канал Израиль" group-title="Израиль" tvg-logo="http://streaming-elbrus.su/img/logos/efir/9kanal-israel.png" tvg-shift="0",9 канал Израиль
-http://158.101.214.187:8080/channel/59f8d94f/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Action" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-3012" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/action_ca.png",Action
-http://158.101.214.187:8080/channel/n66dadff4/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="BOLLYSHOW" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-100640" tvg-logo="http://158.101.214.187:8080/logos/bollyshow.png",BOLLYSHOW
-http://158.101.214.187:8080/channel/n58bdbd0d/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="BOLLYWOOD" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-51106" tvg-logo="http://158.101.214.187:8080/logos/bollywood-hd.png",BOLLYWOOD
-http://158.101.214.187:8080/channel/n58bbd15d/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Baby TV" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-40" tvg-logo="http://158.101.214.187:8080/logos/baby-tv.png",Baby TV
-http://158.101.214.187:8080/channel/n43fc210a/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Big Brother" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-51400" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/bb/big_brother_al.png",Big Brother
-http://158.101.214.187:8080/channel/n11db9696/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Bombay" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-100640" tvg-logo="http://158.101.214.187:8080/logos/bollyshow.png",Bombay
-http://158.101.214.187:8080/channel/n648037d0/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Channel 11" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-52867" tvg-logo="http://158.101.214.187:8080/logos/israel-11.png",Channel 11
-http://158.101.214.187:8080/channel/60ee0533/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Channel 12" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-54281" tvg-logo="http://158.101.214.187:8080/logos/israel-12.png",Channel 12
-http://158.101.214.187:8080/channel/60ee0534/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Channel 13" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-52138" tvg-logo="http://158.101.214.187:8080/logos/israel-13.png",Channel 13
-http://158.101.214.187:8080/channel/60ee0535/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Channel 21" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-2043" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/cc/channel_21_de.png",Channel 21
-http://158.101.214.187:8080/channel/60ee0552/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Channel 23" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-743" tvg-logo="http://158.101.214.187:8080/logos/israel-kan-hinuhit.png",Channel 23
-http://158.101.214.187:8080/channel/60ee0554/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Channel 66" group-title="Израиль" tvg-shift="0",Channel 66
-http://158.101.214.187:8080/channel/60ee05d3/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="DRAMA" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-1150" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/dd/drama_uktv.png",DRAMA
-http://158.101.214.187:8080/channel/682b3dd1/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Disney" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-66" tvg-logo="http://158.101.214.187:8080/logos/disney-kanal.png",Disney
-http://158.101.214.187:8080/channel/n61682bd6/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="EGO TOTAL" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-52915" tvg-logo="http://158.101.214.187:8080/logos/israel-ego-total.png",EGO TOTAL
-http://158.101.214.187:8080/channel/785b83bb/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="EXTREME" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-50247" tvg-logo="http://158.101.214.187:8080/logos/israel-extreme.png",EXTREME
-http://158.101.214.187:8080/channel/4a847996/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Entertaiment" group-title="Израиль" tvg-shift="0",Entertaiment
-http://158.101.214.187:8080/channel/n55d988/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="FUN" group-title="Израиль" tvg-shift="0",FUN
-http://158.101.214.187:8080/channel/n2f0ad897/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Food Network" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-20340" tvg-logo="http://158.101.214.187:8080/logos/food-network.png",Food Network
-http://158.101.214.187:8080/channel/29b2c5a2/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="GOLD" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-55302" tvg-logo="https://dl.dropboxusercontent.com/s/989sm8osgm8kldx/goldmd.png",GOLD
-http://158.101.214.187:8080/channel/4db02396/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="GOOD LIFE" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-50466" tvg-logo="http://158.101.214.187:8080/logos/good-life-il.png",GOOD LIFE
-http://158.101.214.187:8080/channel/1a7df309/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="HOP" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-50349" tvg-logo="http://158.101.214.187:8080/logos/hop-il.png",HOP
-http://158.101.214.187:8080/channel/n2f0ad1cd/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="HOT 3" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-50477" tvg-logo="http://158.101.214.187:8080/logos/israel-hot-cinema3.png",HOT 3
-http://158.101.214.187:8080/channel/6862808a/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="HOT 8" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-52890" tvg-logo="http://158.101.214.187:8080/logos/israel-hot-8.png",HOT 8
-http://158.101.214.187:8080/channel/6862808f/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="HOT HBO" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-1716" tvg-logo="http://158.101.214.187:8080/logos/israel-hbo-hot.png",HOT HBO
-http://158.101.214.187:8080/channel/n263b22d4/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="HOT ZONE" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-52887" tvg-logo="http://158.101.214.187:8080/logos/israel-zone.png",HOT ZONE
-http://158.101.214.187:8080/channel/5edf27f5/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Health" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-2486" tvg-logo="http://158.101.214.187:8080/logos/israel-health.png",Health
-http://158.101.214.187:8080/channel/n5ad55bce/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Home Plus" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-1717" tvg-logo="http://158.101.214.187:8080/logos/bait-plus-il.png",Home Plus
-http://158.101.214.187:8080/channel/163536c5/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Hop Childhood" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-50349" tvg-logo="http://158.101.214.187:8080/logos/israel-hop-girls.png",Hop Childhood
-http://158.101.214.187:8080/channel/322b8e6b/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="I24" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-4253" tvg-logo="http://158.101.214.187:8080/logos/israel-i24-news.png",I24
-http://158.101.214.187:8080/channel/n2f0ad1ab/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Israel Music" group-title="Израиль" tvg-shift="0",Israel Music
-http://158.101.214.187:8080/channel/6f30be7b/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Junior" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-2107" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/jj/junior_tv_de.png",Junior
-http://158.101.214.187:8080/channel/n56845581/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="KAN 11" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-52867" tvg-logo="http://158.101.214.187:8080/logos/israel-11.png",KAN 11
-http://158.101.214.187:8080/channel/n57bbe8c2/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Kabbalah" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-51415" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kabbalah_il.png",Kabbalah
-http://158.101.214.187:8080/channel/6a3c5efe/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Logi" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-50364" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/ll/logi_tv.png",Logi
-http://158.101.214.187:8080/channel/4db2e4fb/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Luli" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-50366" tvg-logo="http://158.101.214.187:8080/logos/israel-luli.png",Luli
-http://158.101.214.187:8080/channel/4db2fc1c/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Mikan" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-1699" tvg-logo="http://158.101.214.187:8080/logos/israel-mikan.png",Mikan
-http://158.101.214.187:8080/channel/68b52626/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Music 24" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-50525" tvg-logo="http://158.101.214.187:8080/logos/israel-24-new.png",Music 24
-http://158.101.214.187:8080/channel/79602673/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="NIck Jr" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-135" tvg-logo="http://158.101.214.187:8080/logos/nick-junior.png",NIck Jr
-http://158.101.214.187:8080/channel/de2104f/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Nat Geo Wild" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-128" tvg-logo="http://158.101.214.187:8080/logos/nat-geo-wild.png",Nat Geo Wild
-http://158.101.214.187:8080/channel/465f28ee/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Nickelodeon" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-136" tvg-logo="http://158.101.214.187:8080/logos/nickelodeon.png",Nickelodeon
-http://158.101.214.187:8080/channel/37f8e9ef/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="ONE" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-844" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/aa/ard_one.png",ONE
-http://158.101.214.187:8080/channel/n2f0ab7b0/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="PLUS+" group-title="Израиль" tvg-shift="0",PLUS+
-http://158.101.214.187:8080/channel/68d1e95b/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="PRIME" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-8458" tvg-logo="https://dl.dropboxusercontent.com/s/l43s0isb1p3yogu/prime.png",PRIME
-http://158.101.214.187:8080/channel/68d475e9/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Travel Channel" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-182" tvg-logo="http://158.101.214.187:8080/logos/travel-channel.png",Travel Channel
-http://158.101.214.187:8080/channel/n48321e4d/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="VIVA" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-52910" tvg-logo="http://158.101.214.187:8080/logos/viva-tv-il.png",VIVA
-http://158.101.214.187:8080/channel/4db6dfd4/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="VIVA+" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-52911" tvg-logo="http://158.101.214.187:8080/logos/israel-viva-plus.png",VIVA+
-http://158.101.214.187:8080/channel/69251ad7/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="YES ACTION" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-50392" tvg-logo="http://158.101.214.187:8080/logos/israel-yes-action.png",YES ACTION
-http://158.101.214.187:8080/channel/n1476f9b/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="YES COMEDY" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-50394" tvg-logo="http://158.101.214.187:8080/logos/israel-yes-comedy.png",YES COMEDY
-http://158.101.214.187:8080/channel/2c81cc8/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="YES DRAMA" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-50396" tvg-logo="http://158.101.214.187:8080/logos/israel-yes-drama.png",YES DRAMA
-http://158.101.214.187:8080/channel/10aa6238/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="YES ISRAEL CINEMA" group-title="Израиль" tvg-shift="0",YES ISRAEL CINEMA
-http://158.101.214.187:8080/channel/n3cafa13e/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="YES MOVIES COMEDY" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-50417" tvg-logo="http://158.101.214.187:8080/logos/israel-yes-movies-comedy.png",YES MOVIES COMEDY
-http://158.101.214.187:8080/channel/2bf08907/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Yaldut" group-title="Израиль" tvg-shift="0",Yaldut
-http://158.101.214.187:8080/channel/n3e06750b/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="Yamtihoni" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-1690" tvg-logo="http://158.101.214.187:8080/logos/israel-iam-tichoni.png",Yamtihoni
-http://158.101.214.187:8080/channel/5e187a06/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="ZONE" group-title="Израиль" tvg-shift="0",ZONE
-http://158.101.214.187:8080/channel/4db8c6e2/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:0 tvg-name="ZOOM" group-title="Израиль" tvg-shift="0" tvg-id="hlsproxy-205" tvg-logo="http://158.101.214.187:8080/logos/zoom-ua.png",ZOOM
-http://158.101.214.187:8080/channel/4db8c709/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Каналы Prokop TV" tvg-name="Cobra Comedy HD" tvg-id="cobracomedy" tvg-shift="0",Cobra Comedy HD
 http://158.101.194.132:8888/channel/61817e7f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
 #EXTINF:-1 group-title="Каналы Prokop TV" tvg-name="Cobra Detektiv HD" tvg-id="cobradetektiv" tvg-shift="0",Cobra Detektiv HD
@@ -3504,6 +2736,14 @@ http://158.101.194.132:8888/channel/3ea8252f/index.m3u8?q=a0a05bb7b60c1edd8f1556
 http://158.101.194.132:8888/channel/n1f86a79f/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
 #EXTINF:0 tvg-name="UZ-Юмор ТВ HD" group-title="Каналы UZ" tvg-shift="0",UZ-Юмор ТВ HD
 http://158.101.194.132:8888/channel/n2d634037/index.m3u8?q=a0a05bb7b60c1edd8f15566c9763b46b
+#EXTINF:-1 tvg-rec="3" group-title="Каналы с архивом", Дорама HD
+http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/2131/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Каналы с архивом", Кинеко HD
+http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/9135/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="Каналы с архивом",Дорама HD
+http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/2131/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="Каналы с архивом",Кинеко HD
+http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/9135/index.m3u8
 #EXTINF:0 catchup="flussonic" catchup-days="1" tvg-name=".black" group-title="Каналы с архивом" tvg-shift="0" tvg-id="hlsproxy-163" tvg-logo="http://158.101.214.187:8080/logos/dot-black.png",.black
 http://158.101.214.187:8080/channel/n36358112/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:0 tvg-id="super-pl7" catchup="flussonic" catchup-days="1" tvg-name="Cуббота! +7" group-title="Каналы с архивом" tvg-logo="https://streaming-elbrus.su/img/logos/efir/subbota-pl7.png" tvg-shift="-7",Cуббота! +7
@@ -5768,3 +5008,795 @@ http://cloudcdn.tk:80/iiViFgfcwY19/eGG25x30/10266
 http://cloudcdn.tk:80/iiViFgfcwY19/eGG25x30/68667
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/taevasyv7.jpg" group-title="Эстония" tvg-shift="0" tvg-id="hlsproxy-52856",Taevas TV 7
 http://cloudcdn.tk:80/iiViFgfcwY19/eGG25x30/17385
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/2803.png",Русский Экстрим UHD 4K
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_3840x2160_avc1/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/2746.png",Наша Сибирь 4k
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/video_3840x2160_avc1/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/2743.png",Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_3840x2160_avc1/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал
+#EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+3)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+8)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+9)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ +4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ +7
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Репортер 73
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1531138277952.png",Рифей-ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+1)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+3)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+9)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},ТНТ4 (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},ТНТ4 (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8	
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp},ТНТ4 (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СОЛНЦЕ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СОЛНЦЕ (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СОЛНЦЕ (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СОЛНЦЕ (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl2",Пятница! (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl4",Пятница! (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl5",Пятница! (+5)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl7",Пятница! (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru-pl4",Пятый канал (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru-pl7",Пятый канал (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Супер
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Супер (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Супер (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Супер (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Сургут 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="2038",ТВ Центр (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ +4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ +7
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3 (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че! (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний +2
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний +4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний +7
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Звезда (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karusel-pl2",Карусель (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karusel-pl4",Карусель (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karusel-pl7",Карусель (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МИР (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МИР (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МИР (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="doverie",Москва. Доверие
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Муз ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МУЗ ТВ (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МУЗ ТВ (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МУЗ ТВ (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",31 канал Челябинск
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="no_epg_news",41 Регион
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="12-omsk",12 канал HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Норд ТВ (Новодвинск)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_NORDTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",5 канал +4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",5 канал +7
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",6 ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kanal-12-cherepovec",12 канал Череповец
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",7 канал Красноярск
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",8 канал
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="8vladik",8 канал (Владивосток)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="8kanal-krasnoyarsk",8 канал (Красноярский край)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="8kanal-novosibirsk",8 канал (Новосибирск)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",TMTV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",UGRA TRAVEL
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="aist",АИСТ HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="1obl-blagoveschensk",Амурское областное телевидение
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ариг Ус 24 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Арктика 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="arktik-tv",Арктик-ТВ HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="arxyz24",Архыз-24 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Астрахань 24 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",АТВ-Медиа
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",АТВ-Ставрополь
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="stv24",СТВ 24 (Северодвинск)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="bars",Барс плюс
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Башкортостан 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Белгород 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="brianskaya-gubernia",Брянская Губерния HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",БСТ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tk-variant",Вариант V
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1529493228465.jpg",Вектор 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vetta24",Ветта 24 Пермь
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vetta24",Ветта-24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="volga",Волга
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Волгоград 1
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1472218027991.png",Волгоград 1 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="volgograd-24",Волгоград-24 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Восток 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vot-tv",ВОТтв HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vremia-n",Время Н
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vsio-tv",Всё ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s72169.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.postimg.cc/QtQrZy4k/23.jpg",ВТК 41 "Аргус"
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="gorodskoy-yaroslavl",Городской телеканал Ярославль
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="gubernia-33",Губерния 33 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Губерния Самара
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Девятка ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Дзержинск ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="don-24",ДОН 24 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Евразия
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="enisey-region",Енисей HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ивановское общественное телевидение
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1558583498243.png",Импульс HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1550219150031.png",Инфо 24 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1562587410193.png",Информационная служба Югры
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Кавказ 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="no_epg_news",Камчатка HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kaskad24",Каскад
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="katun-24",Катунь 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="krasnodar",Краснодар HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ktv-gorod",КТВ-Город
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VRZH_CTVGOROD/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Кубань 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1578629022322.png",Кузбасс 1
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="lot-47",Лен ТВ 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Липецкое время
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Майдан
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8?version2
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kuban-24",Майкопское Телевидение
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_MAYKOP/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матур ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="mig-tv-noyabrsk",МИГ ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Мир Белогорья
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553783249761.png",Мордовия-24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1569901043455.jpg",Муравленко 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МЭТР
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1490273937894.png",Народное телевидение Мордовии
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="chavash-en",Национальное ТВ Чувашии
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Наш дом
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sever",Север (Нарьян-Мар)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_SEVER/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  tvg-id="kotlastv", Котлас ТВ (Арх. область)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_KOTLASTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sankt-peterburg",Санкт-Петербург
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="moskva-24",Москва 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Наши города
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="saxa",НВК (Саха)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nika-tv",Ника-ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ННТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Новгородское областное телевидение
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://immo.date/logo/radujniy.png",Новое время (Радужный)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Новый век (Тамбов)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="49kanal",НСК 49
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТК
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТС Иркутск
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nts-irbit",НТС-Ирбит (Екатеринбург)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1574910981778.jpg",Область 45 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="objektiv-59",Объектив 59 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОРТ-Планета (Оренбург)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="osetia-iryston",Осетия Ирыстон HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="otv-eburg",ОТВ Екатеринбург HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="otv-primorie",ОТВ-Владивосток
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="otv-saxalin",ОТВ-Сахалин
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ОТВ Челябинск
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТС HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый городской (Киров)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy-oblastnoy-orel",Первый областной
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy-tulsky",Первый Тульский HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый Ярославский
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="prima",Прима-ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rgvk-dagestan",РГВК Дагестан
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Регион 29
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rts-abakan",РТС-Абакан
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Русский Север
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,Русь (Кострома)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rybinsk40",Рыбинск-40
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="s1-surgut",С1 Сургут HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="samara24",Самара-24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Самара-Гис
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sampo-tv",Сампо ТВ 360°
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="saratov-24",Саратов-24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Саха
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="svoyo-tv-stavropol",Своё ТВ Ставрополь HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1578964121507.png",ТВ-7 Абакан
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ21+
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tatarstan24",Татарстан 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sochi24",Сочи24 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Спас
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  tvg-id="stv-baykal",СТВ-Байкал
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv-guberniya",ТВ-Губерния
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv-in",ТВ-ИН-Магнитогорск
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kolyma-plus",ТВ-Колыма-Плюс HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тивиком HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТК Центр Красноярск
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТКР Рязань
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНВ-Планета
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНВ-Татарстан
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНР24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Толк
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tolpartv",Толпар ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tolyatti24",Тольятти-24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tomskoe-vremia",Томское время HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Тюменское время
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Удмуртия
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ул. Правда
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Хамдан
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Эфир
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Югорск ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_YUGORSKTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Югра
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Шаян ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="express",Экспресс HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Юрган
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ЮТВ Чебоксары
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Якутия 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ямал-Регион
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="Wink (VPN 🇷🇺)" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
