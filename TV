@@ -1218,6 +1218,8 @@ https://rr9---sn-axq7sn7s.googlevideo.com/videoplayback?expire=1711123325&ei=HVf
 https://rr9---sn-axq7sn76.googlevideo.com/videoplayback?expire=1711123568&ei=EFj9ZYKEAZDD0u8P45CGmAM&ip=87.99.87.203&id=o-AGUz02y6QliE4YPHCKEbLtxBYREL0kTTSkpnifFXubym&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=Zd&mm=31%2C29&mn=sn-axq7sn76%2Csn-5goeenez&ms=au%2Crdu&mv=m&mvi=9&pl=22&initcwndbps=2997500&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=3521.375&lmt=1583997338481623&mt=1711101650&fvip=1&c=ANDROID&txp=6316222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAPBAYURzjtq0KkObyWVXC27wpupzpSrKIHMm3gQwzHrLAiEAoQHkSNPWLeQReoHfYFTd-6E2lIw5zEbxh7HPPCLpCXg%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ALClDIEwRgIhALy7qrlrLvVGnUM4oHnZAq4oL_rYoCVFOH808X_5zhzrAiEA8Q0whk1KZh1DZsdRRzzi6v4mswzxkStXdZ97BHXRwrU%3D
 #EXTINF:-1 tvg-logo="http://87.99.87.203/logo/hlab.png" group-title="History LAB" tvg-shift="0",Япония во Второй мировой войне. Историк Алексей Исаев. Интервью
 https://rr4---sn-axq7sn7e.googlevideo.com/videoplayback?expire=1711123480&ei=uFf9ZaucEuSj0u8PzJGC2AE&ip=87.99.87.203&id=o-ACryBmvvV-9aXd3n_kDkhfZSjPLqCqvrwfi888vHNtmI&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=C6&mm=31%2C29&mn=sn-axq7sn7e%2Csn-5go7ynld&ms=au%2Crdu&mv=m&mvi=4&pl=22&initcwndbps=2997500&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=1321.819&lmt=1606781230536491&mt=1711101650&fvip=3&c=ANDROID&txp=5516222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgfZE5X8Akd0ARiRMGdJHf4CkVbcuzyoyvMK6tGlBjmwgCIQDU2ohGbRIiecIWPBVreiqXkDD-z2lzl-V8q-p3o-VkYg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ALClDIEwRQIgQh-glhF8lsR6Fb6GCy5FuQc2gUFNhgq8p9NkdZBx6PUCIQD39DrpZkwpi_Ei7oZQRY8XkSxa8vPKV-3qx3fRdcc87w%3D%3D
+
+
 #EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13588/logo_256_1660800223.png" tvg-shift="0",#Ё (Самара)
 http://158.101.214.187:8080/channel/6e39c290/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10300/logo_256_1658733419.png" tvg-shift="0" tvg-id="hlsproxy-2250",#КтоКуда
@@ -1280,8 +1282,10 @@ http://158.101.214.187:8080/channel/616ebdf9/index.m3u8?q=6cca621bb017c120be8f52
 http://158.101.214.187:8080/channel/5090cf5/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10472/logo_256_1658733681.png" tvg-shift="0" tvg-id="hlsproxy-703",CGTN
 http://158.101.214.187:8080/channel/5d10473e/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10473/logo_256_1658733665.png" tvg-shift="0" tvg-id="hlsproxy-49",CGTN Русский
-http://158.101.214.187:8080/channel/n1a11388a/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+#EXTINF:-1 group-title="Lime",CGTN Русский HD
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 group-title="Lime",CGTN Русский
+https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10678/logo_256_1660891657.png" tvg-shift="0" tvg-id="hlsproxy-52405",CNA
 http://158.101.214.187:8080/channel/4d531bd6/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
 #EXTINF:-1 group-title="Lime" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12391/logo_256_1655389526.png" tvg-shift="0" tvg-id="hlsproxy-3073",Clubbing TV HD
@@ -4167,7 +4171,7 @@ http://87.99.87.203:2007/channel/f5bca44/index.m3u8?q=52c8abe37164a6d25a67fe501b
 #EXTINF:-1 group-title="Триколор" tvg-shift="0" tvg-id="hlsproxy-703" tvg-logo="http://158.101.214.187:8080/logos/cgtn.png",CGTN
 http://87.99.87.203:2007/channel/49ce56d9/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="Триколор" tvg-shift="0" tvg-id="hlsproxy-49" tvg-logo="http://158.101.214.187:8080/logos/cgtn-russkiy.png",CGTN Русский
-http://87.99.87.203:2007/channel/n362f3ef/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
+https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="Триколор" tvg-shift="0" tvg-id="hlsproxy-361" tvg-logo="http://158.101.214.187:8080/logos/cinema.png",Cinema
 http://87.99.87.203:2007/channel/117f594c/index.m3u8?q=52c8abe37164a6d25a67fe501b16c54e
 #EXTINF:-1 group-title="Триколор" tvg-shift="0" tvg-id="hlsproxy-100561" tvg-logo="http://158.101.214.187:8080/logos/classic-music.png",Classic Music
