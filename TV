@@ -13,7 +13,7 @@ http://146.158.0.56:80/Motosport/index.m3u8
 http://87.99.87.203:2007/channel/n4f1a929f/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
 #EXTINF:-1 tvg-logo="http://158.101.214.187:8080/logos/sapphire.png", Сапфир HD
 http://188.113.190.15/182/video.m3u8
-#EXTINF:-1, Романтичное HD
+#EXTINF:-1 tvg-id="romantichnoe-hd", Романтичное HD
 http://46.8.29.51:2020/channel/n5fd2cd7/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000008136.png", Кинеко HD
 http://188.113.190.15/156/video.m3u8
