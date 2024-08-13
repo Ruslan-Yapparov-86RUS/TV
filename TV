@@ -21,6 +21,8 @@ http://185.177.112.234:8000/play/a03c
 
 #EXTINF:-1 tvg-logo="https://epg.one/img/2268.png", CGTN Русский HD
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.one/img/2268.png", CGTN Русский HD
+https://plbl.m9-vss6.lfstrm.tv/cgtn_rus_hd/normal/3/index.m3u8?account=e278166859666bbb&client=96950a99b3342dc3&dvrlimit=live&env=s&expires=1723622400&ip=37-79-164-24&mpltlh=auto&origin=m9-live9&pbs_id=639abb22-b108-454b-9be0-38e9418feb50&provider_id=59db5f83bd10231640a3d9d6&region=ru.central.moscow&token=Z_z4kM-eMFb9F82WoUNhSQ&wlid=smotreshka&liveorigin=m9-live9
 #EXTINF:-1 tvg-logo="https://epg.one/img/2268.png", CGTN Русский
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 
