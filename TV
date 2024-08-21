@@ -16,7 +16,7 @@ https://plbl.m9-vss4.lfstrm.tv:443/fox_life_hd/normal/3/index.m3u8?account=e2781
 #EXTINF:-1 tvg-id="romantichnoe-hd", Романтичное HD
 http://46.8.29.51:2020/channel/n5fd2cd7/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000008136.png", Кинеко HD
-http://185.177.112.234:8000/play/a03c
+https://plbl.m9-vss6.lfstrm.tv:443/fox_hd/normal/3/index.m3u8?account=e278166859666bbb&client=0e68e72be8f06329&env=s&expires=1724306400&ip=176-59-215-166&mpltlh=auto&origin=m9-live1&pbs_id=c29018af-43b0-4cb4-9390-e62dc7610968&provider_id=59db5f83bd10231640a3d9d6&region=ru.central.moscow&token=qcJCmG7xdoOcQ5hfaPYWvA&wlid=smotreshka
 
 
 #EXTINF:-1 tvg-logo="https://epg.one/img/2268.png", CGTN Русский HD
