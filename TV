@@ -15,6 +15,8 @@ http://87.99.87.203:2007/channel/n4f1a929f/index.m3u8?q=55f52653d84a0bf750a3c62b
 http://87.99.87.203:2007/channel/30f7818c/index.m3u8?q=55f52653d84a0bf750a3c62b13582b24
 #EXTINF:-1 tvg-id="romantichnoe-hd", Романтичное HD
 http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/5053/index.m3u8
+#EXTINF:-1 tvg-id="romantichnoe-hd", Романтичное HD
+http://ditv.ydns.eu:8888/channel/n4c3e98d7/index.m3u8?q=3838edaea6af69cfe88cb57628c8d756
 #EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000008136.png", Кинеко HD
 http://5.153.180.133:8004/play/a00p
 
