@@ -29,8 +29,8 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/9135/index.m3u8
 #EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000008136.png" tvg-rec="3", Кинеко HD
 http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/9135/index.m3u8
-#EXTINF:-1, Дорама HD
-http://36c9aee1.edmonst.net/iptv/XEPKS65X5EXZ5M/9224/index.m3u8
+#EXTINF:-1 tvg-rec="3", Дорама HD
+http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/9224/index.m3u8
 
 
 
