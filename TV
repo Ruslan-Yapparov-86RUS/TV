@@ -11,8 +11,8 @@ http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
 http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-logo="https://operators.1tvch.ru/system/pic_folder/channels/logo_images/original/%D0%9B%D0%B0%D0%B2%D1%81%D1%82%D0%BE%D1%80%D0%B8_72.png?1695653538" tvg-id="lavstori" https://epg.iptvx.one/id/lavstori , Лавстори HD
 http://87.99.87.203:2007/channel/n4f1a929f/index.m3u8?q=55f52653d84a0bf750a3c62b13582b24
-#EXTINF:-1 tvg-logo="http://158.101.214.187:8080/logos/sapphire.png", Сапфир HD
-http://31.130.63.173:1011/fox_life_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-rec="3" tvg-logo="http://158.101.214.187:8080/logos/sapphire.png", Сапфир HD
+http://8d2db052.rossteleccom.net/iptv/BVWXVL5UKS6DL7/6389/index.m3u8
 #EXTINF:-1 tvg-rec="3" tvg-id="romantichnoe-hd", Романтичное HD
 http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/5053/index.m3u8
 #EXTINF:-1 tvg-rec="6" tvg-id="romantichnoe-hd", Романтичное HD
