@@ -15,7 +15,7 @@ http://87.99.87.203:2007/channel/n4f1a929f/index.m3u8?q=55f52653d84a0bf750a3c62b
 http://31.130.63.173:1011/fox_life_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-rec="3" tvg-id="romantichnoe-hd", Романтичное HD
 http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/5053/index.m3u8
-#EXTINF:-1 timeshift="6" tvg-id="romantichnoe-hd", Романтичное HD
+#EXTINF:-1 tvg-rec="6" tvg-id="romantichnoe-hd", Романтичное HD
 http://1.1usd.tv:34000/ch098/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPDzAFBS3qRqylx0Ongg1ZSkGQZKOTK-ys_UamGcNsO6
 #EXTINF:-1 tvg-rec="3" tvg-logo="https://ramnet.ru/tv/logo/000008136.png", Кинеко HD
 http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/9135/index.m3u8
