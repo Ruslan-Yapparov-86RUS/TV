@@ -12,6 +12,10 @@ http://88.218.242.237:8000/play/a004
 #EXTINF:-1 tvg-logo="https://operators.1tvch.ru/system/pic_folder/channels/logo_images/original/%D0%9B%D0%B0%D0%B2%D1%81%D1%82%D0%BE%D1%80%D0%B8_72.png?1695653538" tvg-id="lavstori" https://epg.iptvx.one/id/lavstori , Лавстори HD
 http://88.218.242.237:8000/play/a00v
 #EXTINF:-1 tvg-rec="3" tvg-logo="http://158.101.214.187:8080/logos/sapphire.png", Сапфир HD
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/6389/index.m3u8
+#EXTINF:-1 tvg-rec="3" tvg-logo="http://158.101.214.187:8080/logos/sapphire.png", Сапфир HD
+http://yandex5.kazaktelekom.com/iptv/FCWGH6933UR5V5/6389/index.m3u8
+#EXTINF:-1 tvg-rec="3" tvg-logo="http://158.101.214.187:8080/logos/sapphire.png", Сапфир HD
 http://8d2db052.rossteleccom.net/iptv/BVWXVL5UKS6DL7/6389/index.m3u8
 #EXTINF:-1 tvg-rec="3" tvg-id="romantichnoe-hd", Романтичное HD
 http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/5053/index.m3u8
@@ -32,8 +36,13 @@ http://o1nbiadn.megatv.fun/iptv/WSMQQSF4M7PGWH/9135/index.m3u8
 #EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000008136.png" tvg-rec="3", Кинеко HD
 http://morfei.edmonst.net/iptv/WG5566N6R3AS5E/9135/index.m3u8
 #EXTINF:-1 tvg-rec="3", Дорама HD
-http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/9224/index.m3u8
-
+http://yandex5.kazaktelekom.com/iptv/FCWGH6933UR5V5/2131/index.m3u8
+#EXTINF:-1 tvg-rec="3", Дорама HD
+http://d5661e96.cbilant.com/iptv/D3WFZQZ2872Y8Q2FXRPADMLM/2131/index.m3u8
+#EXTINF:-1 tvg-rec="3", Дорама HD
+http://d5661e96.cbilant.com/iptv/D3WFZQZ2872Y8Q2FXRPADMLM/9239/index.m3u8
+#EXTINF:-1 , Дорама HD
+http://7kjirhdw.russtv.net/iptv/CMC3F7XLV373HB/2131/index.m3u8
 
 
 
