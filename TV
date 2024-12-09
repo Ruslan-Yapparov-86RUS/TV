@@ -7,8 +7,8 @@ https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif
 
 #EXTINF:-1 group-title="Быстрый доступ", Музыка Первого
 http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
-#EXTINF:-1 group-title="Быстрый доступ", FAN HD
-http://ditv.zapto.org:8888/channel/145aa384/index.m3u8?q=497965039421841645ed04323d4248f3
+#EXTINF:-1 group-title="Быстрый доступ" tvg-rec="3", FAN HD
+http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/16021/index.m3u8
 #EXTINF:-1 group-title="Быстрый доступ" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/vik3ystc9op1tzi0t3jsna3sry2c?w=600", Viju TV1000 Romantica FHD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=SOnTWK1QnNayTTAvCR5wWQ&e=1734629627&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Быстрый доступ" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/vik3ystc9op1tzi0t3jsna3sry2c?w=600", Viju TV1000 Romantica HD
