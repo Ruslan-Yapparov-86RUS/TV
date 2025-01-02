@@ -12,9 +12,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/16021/index.m3u8
 #EXTINF:-1 group-title="Быстрый доступ", FAN HD
 http://ditv.zapto.org:8888/channel/145aa384/index.m3u8?q=0f86c7ec34662b6818f5172586d4cf56
 #EXTINF:-1 group-title="Быстрый доступ" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/vik3ystc9op1tzi0t3jsna3sry2c?w=600", Viju TV1000 Romantica FHD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=PsIOZz7HoZTtkVaSvflM0Q&e=1735670300&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v2a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=E43rBRbsx7WOD863qFH96Q&e=1736823862&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Быстрый доступ" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/vik3ystc9op1tzi0t3jsna3sry2c?w=600", Viju TV1000 Romantica HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v2a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=PsIOZz7HoZTtkVaSvflM0Q&e=1735670300&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v2a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=E43rBRbsx7WOD863qFH96Q&e=1736823862&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Быстрый доступ", Romance HD
 http://88.218.242.237:8000/play/a004
 #EXTINF:-1 group-title="Быстрый доступ" tvg-rec="3", ТВ3 HD
