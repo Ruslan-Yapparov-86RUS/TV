@@ -21,12 +21,12 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-
 http://88.218.242.237:8000/play/a004
 #EXTINF:-1 group-title="Быстрый доступ" tvg-rec="3", ТВ3 HD
 http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/5033/index.m3u8
-#EXTINF:0 group-title="Быстрый доступ" tvg-id="9001" tvg-logo="http://epg.one/img/9001.png" tvg-rec="7", Лавстори HD
-http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/2034/index.m3u8
+#EXTINF:0 group-title="Быстрый доступ" tvg-id="9001" tvg-logo="http://epg.one/img/9001.png", Лавстори HD
+http://87.99.87.203:2007/channel/n4f1a929f/index.m3u8?q=5a96c7e48a4072ebac1835b78e965189
 #EXTINF:-1 group-title="Быстрый доступ" tvg-rec="3" tvg-logo="http://158.101.214.187:8080/logos/sapphire.png", Сапфир HD
 http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/6389/index.m3u8
 #EXTINF:-1 group-title="Быстрый доступ" tvg-rec="3" tvg-id="romantichnoe-hd", Романтичное HD
-http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/5053/index.m3u8
+http://46.17.41.254:2020/channel/n5fd2cd7/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 group-title="Быстрый доступ" tvg-rec="3" tvg-logo="https://ramnet.ru/tv/logo/000008136.png", Кинеко HD
 http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/9135/index.m3u8
 #EXTINF:-1 group-title="Быстрый доступ" tvg-logo="https://epg.one/img/2268.png", CGTN Русский HD
