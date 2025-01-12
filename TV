@@ -21,8 +21,8 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-
 http://88.218.242.237:8000/play/a004
 #EXTINF:-1 group-title="Быстрый доступ" tvg-rec="3", ТВ3 HD
 http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/5033/index.m3u8
-#EXTINF:-1 group-title="Быстрый доступ" tvg-logo="https://operators.1tvch.ru/system/pic_folder/channels/logo_images/original/%D0%9B%D0%B0%D0%B2%D1%81%D1%82%D0%BE%D1%80%D0%B8_72.png?1695653538" tvg-id="lavstori" https://epg.iptvx.one/id/lavstori , Лавстори HD
-http://88.218.242.237:8000/play/a00v
+#EXTINF:0 group-title="Быстрый доступ" tvg-id="9001" tvg-logo="http://epg.one/img/9001.png" tvg-rec="7", Лавстори HD
+http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/2034/index.m3u8
 #EXTINF:-1 group-title="Быстрый доступ" tvg-rec="3" tvg-logo="http://158.101.214.187:8080/logos/sapphire.png", Сапфир HD
 http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/6389/index.m3u8
 #EXTINF:-1 group-title="Быстрый доступ" tvg-rec="3" tvg-id="romantichnoe-hd", Романтичное HD
