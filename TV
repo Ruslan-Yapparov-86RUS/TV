@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновлено:26.12.2024
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновлено:14.01.2025
 https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif
 
 
@@ -71,6 +71,8 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000East_HD_ad.smil/tra
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=v1QWjY3juIhcXzgbt_9joQ&e=1737013418&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",viju TV1000 новелла
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=YaCCRCw--5eOzvb2wKayDg&e=1736281990&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TEST ⓵",viju TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=RfC90Ueso9rlmpQV3HACzA&e=1736281942&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="TEST ⓵",TV1000 Русское кино HD
 http://45.143.108.104/TV1000RU_HD/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵",TV1000 HD
