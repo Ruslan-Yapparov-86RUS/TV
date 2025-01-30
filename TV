@@ -1,18 +1,16 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновлено:18.01.2025
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновлено:14.01.2025
 https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif
 
 
 #EXTINF:-1 group-title="Быстрый доступ", Музыка Первого
 http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
 #EXTINF:-1 group-title="Быстрый доступ", Индия HD
-http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/19250/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/KW2WU5HKUV3YSACVC47SPE8E/19250/index.m3u8
 #EXTINF:-1 group-title="Быстрый доступ", FAN HD
-http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/16021/index.m3u8
-#EXTINF:-1 group-title="Быстрый доступ", FAN HD
-http://ditvkinozal.ydns.eu:80/play/Eazl6VTd2o0GX5upGbENv3MXXnwlEaImp-P6r-XVVPQ/ts
+http://rhsbjv7k.tvclub.xyz/iptv/KW2WU5HKUV3YSACVC47SPE8E/16021/index.m3u8
 #EXTINF:-1 group-title="Быстрый доступ" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/vik3ystc9op1tzi0t3jsna3sry2c?w=600", Viju TV1000 Romantica HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=h76fWyLnb9RddZt-qoNc_g&e=1738300622&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Быстрый доступ" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/vik3ystc9op1tzi0t3jsna3sry2c?w=600", Viju TV1000 Romantica
@@ -20,19 +18,19 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-
 #EXTINF:-1 group-title="Быстрый доступ", Romance HD
 http://158.101.214.187:8080/channel/b127720/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
 #EXTINF:-1 group-title="Быстрый доступ" tvg-rec="3", ТВ3 HD
-http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/5033/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/KW2WU5HKUV3YSACVC47SPE8E/5033/index.m3u8
 #EXTINF:0 group-title="Быстрый доступ" tvg-id="9001" tvg-logo="http://epg.one/img/9001.png", Лавстори HD
-http://87.99.87.203:2007/channel/n4f1a929f/index.m3u8?q=5a96c7e48a4072ebac1835b78e965189
+http://46.17.41.254:2020/channel/n682840bd/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 group-title="Быстрый доступ" tvg-rec="3" tvg-logo="http://158.101.214.187:8080/logos/sapphire.png", Сапфир HD
-http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/6389/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/KW2WU5HKUV3YSACVC47SPE8E/6389/index.m3u8
 #EXTINF:-1 group-title="Быстрый доступ" tvg-id="romantichnoe-hd", Романтичное HD
-http://46.17.41.254:2020/channel/n5fd2cd7/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+http://46.17.41.254:2020/channel/n6173e551/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
 #EXTINF:-1 group-title="Быстрый доступ" tvg-rec="3" tvg-logo="https://ramnet.ru/tv/logo/000008136.png", Кинеко HD
-http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/9135/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/KW2WU5HKUV3YSACVC47SPE8E/9135/index.m3u8
 #EXTINF:-1 group-title="Быстрый доступ" tvg-logo="https://epg.one/img/2268.png", CGTN Русский HD
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 group-title="Быстрый доступ" tvg-rec="3" tvg-logo="https://epg.one/img/2268.png", CGTN Русский HD
-http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/9223/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/KW2WU5HKUV3YSACVC47SPE8E/9223/index.m3u8
 #EXTINF:-1 group-title="Быстрый доступ" tvg-logo="https://epg.one/img/2268.png", CGTN Русский
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="Быстрый доступ", tvg-logo="https://ramnet.ru/tv/logo/000008136.png" tvg-rec="3", Кинеко HD
