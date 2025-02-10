@@ -53,6 +53,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/EKBM8Y74U82Y5B/2131/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KW2WU5HKUV3YSACVC47SPE8E/19250/index.m3u8
 #EXTINF:-1 group-title="Телевидение" tvg-rec="3", ТВ3 HD
 http://rhsbjv7k.tvclub.xyz/iptv/KW2WU5HKUV3YSACVC47SPE8E/5033/index.m3u8
+#EXTINF:-1 group-title="Телевидение", Музыка Первого
+http://185.50.148.2:7707/MuzikaPervogo/index.m3u8
 
 
 
